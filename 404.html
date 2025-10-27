@@ -1,25 +1,53 @@
 ---
-permalink: /404.html
 layout: page
+title: Page Not Found
+permalink: /404.html
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+<div class="text-center py-12">
+    <span class="material-symbols-outlined text-6xl text-primary dark:text-secondary mb-6">music_off</span>
+    
+    <h1 class="font-display text-4xl font-bold text-primary dark:text-secondary mb-4">
+        Oops! Wrong Note
+    </h1>
+    
+    <p class="text-slate-600 dark:text-slate-400 text-lg mb-8 max-w-xl mx-auto">
+        The page you're looking for seems to have wandered off stage. Let's get you back to the main performance!
+    </p>
+    
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-2xl mx-auto">
+        <div class="bg-white dark:bg-card-dark p-6 rounded-xl">
+            <h2 class="font-display text-xl font-bold mb-4">Popular Pages</h2>
+            <ul class="space-y-3">
+                <li>
+                    <a href="/" class="flex items-center gap-2 text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-secondary">
+                        <span class="material-symbols-outlined">home</span>
+                        <span>Home</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/teaching" class="flex items-center gap-2 text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-secondary">
+                        <span class="material-symbols-outlined">school</span>
+                        <span>Teaching Studio</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/portfolio" class="flex items-center gap-2 text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-secondary">
+                        <span class="material-symbols-outlined">music_note</span>
+                        <span>Portfolio</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="bg-white dark:bg-card-dark p-6 rounded-xl">
+            <h2 class="font-display text-xl font-bold mb-4">Need Help?</h2>
+            <p class="text-slate-600 dark:text-slate-400 mb-4">
+                If you can't find what you're looking for, feel free to contact me directly.
+            </p>
+            <a href="/contact" class="inline-flex items-center justify-center w-full px-6 py-3 rounded-full bg-primary text-white hover:bg-primary/90 transition-colors">
+                Get in Touch
+            </a>
+        </div>
+    </div>
 </div>

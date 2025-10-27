@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>John Doe | Clarinetist &amp; Educator</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&amp;family=Lato:wght@400;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#0D2F4F",
+                        "secondary": "#B89B72",
+                        "background-light": "#F8F9FA",
+                        "background-dark": "#101c22",
+                        "text-light": "#2C3E50",
+                        "text-dark": "#F8F9FA",
+                        "text-muted-light": "#5a6875",
+                        "text-muted-dark": "#a0aec0",
+                        "card-light": "#FFFFFF",
+                        "card-dark": "#1a2a33",
+                        "border-light": "#e2e8f0",
+                        "border-dark": "#2d3748",
+                    },
+                    fontFamily: {
+                        "display": ["Newsreader", "serif"],
+                        "sans": ["Lato", "sans-serif"],
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+<style>
+        body {
+            font-family: 'Lato', sans-serif;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Newsreader', serif;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark font-sans">
+<div class="flex flex-col min-h-screen" id="root">
+<header class="sticky top-0 z-50 w-full bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-sm border-b border-border-light dark:border-border-dark">
+<div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="flex items-center justify-between h-16">
+<div class="flex items-center gap-4">
+<div class="size-6 text-primary dark:text-secondary flex-shrink-0">
+<svg fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 18h2V6H7v12zm4 4h2V2h-2v20zm-8-8h2v-4H3v4zm12 4h2V6h-2v12zm4-8v4h2v-4h-2z"></path>
+</svg>
+</div>
+<h1 class="text-xl font-bold font-display tracking-tight">John Doe | Clarinetist &amp; Educator</h1>
+</div>
+<nav class="hidden md:flex items-center gap-8">
+<a class="text-sm font-medium hover:text-primary dark:hover:text-secondary transition-colors" href="#about">About</a>
+<a class="text-sm font-medium hover:text-primary dark:hover:text-secondary transition-colors" href="#media">Media</a>
+<a class="text-sm font-medium hover:text-primary dark:hover:text-secondary transition-colors" href="#performances">Performances</a>
+<a class="text-sm font-medium hover:text-primary dark:hover:text-secondary transition-colors" href="#contact">Contact</a>
+<button class="flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold hover:bg-primary/90 transition-colors">
+<span class="truncate">Book a Lesson</span>
+</button>
+</nav>
+</div>
+</div>
+</header>
+<main class="flex-grow">
+<section class="relative">
+<div class="w-full min-h-[60vh] lg:min-h-[70vh] flex flex-col items-center justify-center bg-cover bg-center bg-no-repeat text-center p-4" data-alt="Professional photo of John Doe holding a clarinet in a concert hall setting" style='background-image: linear-gradient(rgba(13, 47, 79, 0.5) 0%, rgba(13, 47, 79, 0.7) 100%), url("https://lh3.googleusercontent.com/aida-public/AB6AXuDd8-N96xA3TXyznBQx-AOP7CbGclTgaEzyWusK4V1LKb992IW40akSH00Rxw0qIuTg3ftmpgFQMiXaAY43fuUVzEjaMNj0yoAZp-BrxiMFgeQpl8qkaQ9Iifi_fiU6UvgAgr3p91ogGqjHLmvVVjSTbzDpZQMWWFk7f4YydDwEj9nD_MT2oqBMU8ciy1HC6yOGjddosrQxYFHPZD3CuXwysjZsbWG6niGnysO9mc4SkE-miMzIun2TvBkk7KgYeDV2YhFwbPZGZGU");'>
+<div class="flex flex-col gap-4 text-white max-w-3xl">
+<h1 class="text-5xl font-bold leading-tight tracking-tight font-display md:text-7xl">John Doe</h1>
+<h2 class="text-xl font-normal font-sans md:text-2xl">Clarinet Performer &amp; Music Educator</h2>
+<div class="mt-6 flex flex-wrap gap-4 justify-center">
+<a class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-secondary text-primary text-base font-bold tracking-wide hover:opacity-90 transition-opacity" href="#contact">
+<span class="truncate">Inquire About Lessons</span>
+</a>
+<a class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-background-light text-text-light text-base font-bold tracking-wide hover:bg-opacity-90 transition-opacity" href="#media">
+<span class="truncate">View My Work</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+<div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24 space-y-20">
+<section class="scroll-mt-20" id="about">
+<h2 class="text-4xl font-bold font-display text-center">About Me</h2>
+<div class="mt-8 grid md:grid-cols-2 gap-8 md:gap-12 text-base font-normal leading-relaxed text-text-muted-light dark:text-text-muted-dark">
+<div>
+<h3 class="text-2xl font-bold font-display text-text-light dark:text-text-dark mb-4">Performance Career</h3>
+<p>A passionate and dedicated musician with over 15 years of experience, I bring a wealth of knowledge to the stage. My performance career has taken me across the country, performing with renowned orchestras and chamber ensembles. I specialize in both classical and contemporary repertoire, always striving to connect with audiences through expressive and technically refined performances.</p>
+</div>
+<div>
+<h3 class="text-2xl font-bold font-display text-text-light dark:text-text-dark mb-4">Teaching Philosophy</h3>
+<p>As an educator, my philosophy is rooted in fostering a deep and lasting love for music in every student. I believe in a personalized approach, tailoring lessons to individual learning styles and goals. Whether preparing for auditions, exploring new genres, or simply learning for enjoyment, I create a supportive environment that encourages growth, discipline, and artistic discovery.</p>
+</div>
+</div>
+</section>
+<section class="scroll-mt-20" id="media">
+<h2 class="text-4xl font-bold font-display text-center">Performance Portfolio</h2>
+<div class="mt-8">
+<h3 class="text-2xl font-bold font-display text-text-light dark:text-text-dark mb-6">Video Highlights</h3>
+<div class="grid md:grid-cols-2 gap-8">
+<div class="bg-card-light dark:bg-card-dark rounded-xl shadow-sm overflow-hidden border border-border-light dark:border-border-dark">
+<div class="aspect-w-16 aspect-h-9">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="w-full h-full" frameborder="0" src="https://www.youtube.com/embed/Y_a_YvO_8vY"></iframe>
+</div>
+<div class="p-5">
+<h4 class="font-bold text-lg font-display">Mozart Clarinet Concerto in A</h4>
+<p class="text-sm text-text-muted-light dark:text-text-muted-dark mt-1">Live performance with the Metropolitan Orchestra</p>
+</div>
+</div>
+<div class="bg-card-light dark:bg-card-dark rounded-xl shadow-sm overflow-hidden border border-border-light dark:border-border-dark">
+<div class="aspect-w-16 aspect-h-9">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="w-full h-full" frameborder="0" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
+</div>
+<div class="p-5">
+<h4 class="font-bold text-lg font-display">Teaching Demonstration</h4>
+<p class="text-sm text-text-muted-light dark:text-text-muted-dark mt-1">A glimpse into my approach on articulation.</p>
+</div>
+</div>
+</div>
+<h3 class="text-2xl font-bold font-display text-text-light dark:text-text-dark mt-12 mb-6">Audio Recordings</h3>
+<div class="space-y-4">
+<div class="flex items-center gap-4 p-4 bg-card-light dark:bg-card-dark rounded-xl shadow-sm border border-border-light dark:border-border-dark">
+<button class="flex items-center justify-center size-12 bg-primary text-white rounded-full flex-shrink-0 hover:bg-primary/90 transition-colors">
+<span class="material-symbols-outlined text-3xl">play_arrow</span>
+</button>
+<div class="flex-grow">
+<h4 class="font-bold">Brahms: Clarinet Sonata No. 1</h4>
+<p class="text-sm text-text-muted-light dark:text-text-muted-dark">Allegro Appassionato</p>
+</div>
+<span class="text-sm text-text-muted-light dark:text-text-muted-dark font-mono">9:21</span>
+</div>
+<div class="flex items-center gap-4 p-4 bg-card-light dark:bg-card-dark rounded-xl shadow-sm border border-border-light dark:border-border-dark">
+<button class="flex items-center justify-center size-12 bg-primary text-white rounded-full flex-shrink-0 hover:bg-primary/90 transition-colors">
+<span class="material-symbols-outlined text-3xl">play_arrow</span>
+</button>
+<div class="flex-grow">
+<h4 class="font-bold">Weber: Concertino for Clarinet</h4>
+<p class="text-sm text-text-muted-light dark:text-text-muted-dark">Studio Recording</p>
+</div>
+<span class="text-sm text-text-muted-light dark:text-text-muted-dark font-mono">8:45</span>
+</div>
+</div>
+<h3 class="text-2xl font-bold font-display text-text-light dark:text-text-dark mt-12 mb-6">Awards &amp; Achievements</h3>
+<div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+<div class="bg-card-light dark:bg-card-dark rounded-xl shadow-sm p-6 border border-border-light dark:border-border-dark flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-4xl text-secondary">emoji_events</span>
+<h4 class="font-bold text-lg font-display mt-3">National Clarinet Competition</h4>
+<p class="text-sm text-text-muted-light dark:text-text-muted-dark mt-1">First Place Winner, 2021</p>
+</div>
+<div class="bg-card-light dark:bg-card-dark rounded-xl shadow-sm p-6 border border-border-light dark:border-border-dark flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-4xl text-secondary">emoji_events</span>
+<h4 class="font-bold text-lg font-display mt-3">Chamber Music America</h4>
+<p class="text-sm text-text-muted-light dark:text-text-muted-dark mt-1">Young Artist Award, 2019</p>
+</div>
+<div class="bg-card-light dark:bg-card-dark rounded-xl shadow-sm p-6 border border-border-light dark:border-border-dark flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-4xl text-secondary">emoji_events</span>
+<h4 class="font-bold text-lg font-display mt-3">Conservatory Concerto Competition</h4>
+<p class="text-sm text-text-muted-light dark:text-text-muted-dark mt-1">Grand Prize, 2017</p>
+</div>
+</div>
+</div>
+</section>
+<section class="scroll-mt-20" id="performances">
+<h2 class="text-4xl font-bold font-display text-center">Upcoming Performances</h2>
+<div class="mt-8 border-l-2 border-secondary pl-6 space-y-10">
+<div class="relative">
+<div class="absolute -left-[33px] top-1.5 size-4 bg-secondary rounded-full border-4 border-background-light dark:border-background-dark"></div>
+<p class="text-sm font-semibold text-primary dark:text-secondary">OCTOBER 15, 2024 - 7:30 PM</p>
+<h3 class="text-xl font-bold font-display mt-1">Chamber Music Night</h3>
+<p class="text-text-muted-light dark:text-text-muted-dark">The Grand Concert Hall, Downtown</p>
+<a class="inline-block mt-2 text-sm font-bold text-primary dark:text-secondary hover:underline" href="#">Get Tickets</a>
+</div>
+<div class="relative">
+<div class="absolute -left-[33px] top-1.5 size-4 bg-secondary rounded-full border-4 border-background-light dark:border-background-dark"></div>
+<p class="text-sm font-semibold text-primary dark:text-secondary">NOVEMBER 5, 2024 - 2:00 PM</p>
+<h3 class="text-xl font-bold font-display mt-1">Symphony Orchestra Feature</h3>
+<p class="text-text-muted-light dark:text-text-muted-dark">Westside Performing Arts Center</p>
+<a class="inline-block mt-2 text-sm font-bold text-primary dark:text-secondary hover:underline" href="#">More Info</a>
+</div>
+<div class="relative">
+<div class="absolute -left-[33px] top-1.5 size-4 bg-secondary rounded-full border-4 border-background-light dark:border-background-dark"></div>
+<p class="text-sm font-semibold text-primary dark:text-secondary">DECEMBER 12, 2024 - 6:00 PM</p>
+<h3 class="text-xl font-bold font-display mt-1">Holiday Pops Concert</h3>
+<p class="text-text-muted-light dark:text-text-muted-dark">Community Theatre</p>
+<a class="inline-block mt-2 text-sm font-bold text-primary dark:text-secondary hover:underline" href="#">Event Details</a>
+</div>
+</div>
+</section>
+<section class="scroll-mt-20 bg-card-light dark:bg-card-dark p-8 md:p-12 rounded-xl text-center shadow-lg border border-border-light dark:border-border-dark" id="contact">
+<h2 class="text-4xl font-bold font-display">Get In Touch</h2>
+<p class="mt-4 max-w-2xl mx-auto text-text-muted-light dark:text-text-muted-dark">
+                        Whether you're interested in private lessons for yourself or a family member, or looking to hire a professional clarinetist for an event or collaboration, I would be delighted to hear from you.
+                    </p>
+<div class="mt-8 flex flex-wrap gap-4 justify-center">
+<button class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-primary text-white text-base font-bold tracking-wide hover:bg-primary/90 transition-colors">
+<span class="truncate">Inquire About Private Lessons</span>
+</button>
+<button class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-secondary text-primary text-base font-bold tracking-wide hover:opacity-90 transition-opacity">
+<span class="truncate">Hiring &amp; Collaboration</span>
+</button>
+</div>
+</section>
+</div>
+</main>
+<footer class="bg-card-light dark:bg-card-dark border-t border-border-light dark:border-border-dark">
+<div class="max-w-6xl mx-auto py-6 px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between text-sm text-text-muted-light dark:text-text-muted-dark">
+<p>© 2024 John Doe. All Rights Reserved.</p>
+<div class="flex items-center gap-4 mt-4 sm:mt-0">
+<a class="hover:text-primary dark:hover:text-secondary transition-colors" data-alt="YouTube icon" href="#">
+<svg aria-hidden="true" class="size-6" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="M19.802 5.345c.988.272 1.763 1.047 2.035 2.035C22.215 8.78 22.5 10.867 22.5 12s-.285 3.22-.463 4.62c-.272.988-1.047 1.763-2.035 2.035C18.603 19.035 16.5 19.5 12 19.5s-6.603-.465-8.002-8.345c-.988-.272-1.763-1.047-2.035-2.035C1.785 15.22 1.5 13.133 1.5 12s.285-3.22.463-4.62c.272-.988-1.047-1.763-2.035-2.035C5.397 4.965 7.5 4.5 12 4.5s6.603.465 8.002.845ZM9.75 15.563V8.437l6.096 3.563-6.096 3.563Z" fill-rule="evenodd"></path></svg>
+</a>
+<a class="hover:text-primary dark:hover:text-secondary transition-colors" data-alt="LinkedIn icon" href="#">
+<svg aria-hidden="true" class="size-6" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.25 6.5 1.75 1.75 0 016.5 8.25zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path></svg>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</body></html>

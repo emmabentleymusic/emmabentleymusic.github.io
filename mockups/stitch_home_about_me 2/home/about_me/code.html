@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>John Doe | Clarinetist &amp; Music Educator</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&amp;family=Lato:ital,wght@0,400;0,700;1,400&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              primary: "#334155", // Charcoal Grey
+              secondary: "#d4af37", // Muted Gold
+              "background-light": "#ffffff",
+              "background-dark": "#0f172a",
+              "card-light": "#f8fafc",
+              "card-dark": "#1e293b",
+              "text-light": "#0f172a",
+              "text-dark": "#e2e8f0",
+              "subtle-light": "#64748b",
+              "subtle-dark": "#94a3b8",
+            },
+            fontFamily: {
+              display: ["Newsreader", "serif"],
+              body: ["Lato", "sans-serif"],
+            },
+            borderRadius: {
+              DEFAULT: "0.5rem",
+              lg: "0.75rem",
+              xl: "1rem",
+              full: "9999px",
+            },
+          },
+        },
+      };
+    </script>
+<style>
+      body {
+        font-family: "Lato", sans-serif;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: "Newsreader", serif;
+      }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark font-body">
+<div class="relative flex min-h-screen w-full flex-col overflow-x-hidden">
+<header class="sticky top-0 z-50 flex items-center justify-center border-b border-slate-200/80 bg-background-light/80 px-4 py-3 backdrop-blur-sm dark:border-slate-800/80 dark:bg-background-dark/80 md:px-8">
+<div class="flex w-full max-w-6xl items-center justify-between">
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary dark:text-secondary text-2xl"> music_note </span>
+<h1 class="font-display text-lg font-bold">John Doe</h1>
+</div>
+<nav class="hidden items-center gap-6 md:flex">
+<a class="text-sm font-medium hover:text-primary dark:hover:text-secondary" href="#home">Home</a>
+<a class="text-sm font-medium hover:text-primary dark:hover:text-secondary" href="#about">About Me</a>
+<a class="text-sm font-medium hover:text-primary dark:hover:text-secondary" href="#studio">Teaching Studio</a>
+<a class="text-sm font-medium hover:text-primary dark:hover:text-secondary" href="#portfolio">Portfolio</a>
+<a class="text-sm font-medium hover:text-primary dark:hover:text-secondary" href="#contact">Contact</a>
+</nav>
+<button class="flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-full bg-primary px-4 py-2 text-sm font-bold text-white transition-colors hover:bg-opacity-90 dark:bg-secondary dark:text-primary dark:hover:bg-opacity-90">
+<span class="truncate">Book a Trial Lesson</span>
+</button>
+</div>
+</header>
+<main class="flex flex-1 flex-col items-center">
+<div class="w-full max-w-6xl px-4 py-12 md:px-8 md:py-16">
+<section class="w-full" id="home">
+<div class="flex min-h-[60vh] flex-col justify-end rounded-xl bg-cover bg-center p-8 text-white md:p-12" data-alt="Professional photo of John Doe holding a clarinet, with a warm, inviting smile." style='background-image: linear-gradient(rgba(0, 0, 0, 0.0) 0%, rgba(15, 23, 42, 0.7) 100%), url("https://lh3.googleusercontent.com/aida-public/AB6AXuAaFzcE5KNG-Sph6JbrITB9Pdxqf3Vw3fkx_ryKchtzKJSOJNYegnRleUXIslDAiYs2beyx0EcVLH3mbkYGGlyO3VOqcDVFJnRFM7jbzkJaj3mSKnzLehTa0p17XB3CsXhq8K0nUcxnJvQ4UqaPhyrEjJ_06qDHsRPeL72sPAUdDYJhnwzVgoluYQJQR8hRvNc4UebA2uUJgQ4oot3eMuUTbT6y_nRNxbxAGJ8gr-L5ewFlfQBZbbZmENh-fZBa9z0M7VfqhIxvEU4");'>
+<div class="max-w-2xl">
+<h1 class="font-display text-4xl font-bold leading-tight md:text-6xl">John Doe | Clarinetist &amp; Music Educator</h1>
+<p class="mt-4 text-base leading-relaxed text-slate-200 md:text-lg">Nurturing a lifelong passion for music through dedicated teaching and professional performance.</p>
+<div class="mt-8 flex flex-wrap gap-4">
+<button class="flex cursor-pointer items-center justify-center overflow-hidden rounded-full bg-secondary px-6 py-3 text-sm font-bold text-primary transition-transform hover:scale-105">
+<span class="truncate">Book a Free Trial Lesson</span>
+</button>
+<button class="flex cursor-pointer items-center justify-center overflow-hidden rounded-full border border-white/50 bg-white/10 px-6 py-3 text-sm font-bold text-white backdrop-blur-sm transition-transform hover:scale-105 hover:bg-white/20">
+<span class="truncate">View My Portfolio</span>
+</button>
+</div>
+</div>
+</div>
+</section>
+<section class="py-16 md:py-24" id="about">
+<div class="grid grid-cols-1 items-center gap-12 md:grid-cols-3">
+<div class="md:col-span-2">
+<h2 class="font-display text-3xl font-bold text-primary dark:text-secondary">About Me</h2>
+<p class="mt-6 text-base leading-relaxed text-subtle-light dark:text-subtle-dark">A detailed professional biography outlining the musical journey, educational background from prestigious universities, and a deep-seated passion for both performing and teaching the clarinet. With a Master of Music from the Juilliard School, I bring a wealth of knowledge and experience to my students and performances.</p>
+<p class="mt-4 text-base leading-relaxed text-subtle-light dark:text-subtle-dark">My approach combines rigorous technical training with creative expression, ensuring students not only master their instrument but also develop a profound appreciation for music.</p>
+</div>
+<div class="flex justify-center">
+<img class="h-80 w-80 rounded-full object-cover shadow-lg" data-alt="A candid photo of John Doe teaching a young student to play the clarinet in a bright, sunlit room." src="https://lh3.googleusercontent.com/aida-public/AB6AXuA3j6HAO7UToloJSGx8uWTHRr5Z8YmU0vEl7Upu-dKBvsk8fvO9Jcuk4CUgQw09fYa713Y1bDCk91up6URX1_7M4OdLmjWw8tjsKXZG9MhGAgMj1CSRZQjycpsK7iiY2YDDuz2wE01cOhY2q9scaFIW5zzGthdUwtGQhs8A53aRS-42GsuCNSnnJqzUgAzvdRdFevI5n3Gi9_t-Lpuw3g7rWkbsFU7KPWqbW6gKnJpQxh4UF9L-55eLtJlw94w5J5ozlAV8TB4n7UQ"/>
+</div>
+</div>
+</section>
+<section class="rounded-xl bg-card-light p-8 dark:bg-card-dark md:p-12" id="studio">
+<div class="text-center">
+<h2 class="font-display text-3xl font-bold text-primary dark:text-secondary">Private Lessons</h2>
+<p class="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-subtle-light dark:text-subtle-dark">Offering personalized music education for students of all ages and skill levels. My studio is a supportive environment where students can explore their musical potential. One-on-one instruction is tailored to your individual goals, focusing on technique, theory, and repertoire.</p>
+<div class="mt-8">
+<a class="inline-flex cursor-pointer items-center justify-center overflow-hidden rounded-full bg-primary px-6 py-3 text-sm font-bold text-white transition-transform hover:scale-105 dark:bg-secondary dark:text-primary" href="#studio">
+<span class="truncate">Learn More About My Studio</span>
+</a>
+</div>
+</div>
+</section>
+<section class="py-16 md:py-24" id="portfolio">
+<div class="text-center">
+<h2 class="font-display text-3xl font-bold text-primary dark:text-secondary">Professional Portfolio</h2>
+<p class="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-subtle-light dark:text-subtle-dark">A selection of my work for prospective students and employers, showcasing my experience as both a performer and an educator.</p>
+</div>
+<div class="mt-12 grid grid-cols-1 gap-8 md:grid-cols-2">
+<div class="rounded-lg bg-card-light p-6 dark:bg-card-dark">
+<h3 class="font-display text-xl font-bold">Performance Recordings</h3>
+<p class="mt-2 text-sm text-subtle-light dark:text-subtle-dark">Listen to a selection of my solo and ensemble performances.</p>
+<div class="mt-4 space-y-3">
+<a class="flex items-center gap-3 rounded p-2 hover:bg-primary/10 dark:hover:bg-secondary/10" href="#">
+<span class="material-symbols-outlined text-primary dark:text-secondary"> play_circle </span>
+<span class="text-sm font-medium">Mozart - Clarinet Concerto in A</span>
+</a>
+<a class="flex items-center gap-3 rounded p-2 hover:bg-primary/10 dark:hover:bg-secondary/10" href="#">
+<span class="material-symbols-outlined text-primary dark:text-secondary"> play_circle </span>
+<span class="text-sm font-medium">Brahms - Clarinet Quintet</span>
+</a>
+</div>
+</div>
+<div class="rounded-lg bg-card-light p-6 dark:bg-card-dark">
+<h3 class="font-display text-xl font-bold">Teaching &amp; Curriculum</h3>
+<p class="mt-2 text-sm text-subtle-light dark:text-subtle-dark">Resources for potential employers, including my resume and sample lesson plans.</p>
+<div class="mt-4 space-y-3">
+<a class="flex items-center gap-3 rounded p-2 hover:bg-primary/10 dark:hover:bg-secondary/10" href="#">
+<span class="material-symbols-outlined text-primary dark:text-secondary"> description </span>
+<span class="text-sm font-medium">Download Full Resume (PDF)</span>
+</a>
+<a class="flex items-center gap-3 rounded p-2 hover:bg-primary/10 dark:hover:bg-secondary/10" href="#">
+<span class="material-symbols-outlined text-primary dark:text-secondary"> menu_book </span>
+<span class="text-sm font-medium">View Sample Lesson Plan</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+<section class="rounded-xl bg-primary/90 p-8 text-white dark:bg-primary md:p-12" id="contact">
+<div class="grid grid-cols-1 gap-12 md:grid-cols-2">
+<div>
+<h2 class="font-display text-3xl font-bold dark:text-secondary">Get In Touch</h2>
+<p class="mt-4 leading-relaxed text-slate-200">Whether you're interested in lessons, have a performance inquiry, or want to discuss a teaching opportunity, I'd love to hear from you.</p>
+<div class="mt-6 space-y-3">
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined"> mail </span>
+<span>contact@johndoeclarinet.com</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined"> phone </span>
+<span>(123) 456-7890</span>
+</div>
+</div>
+</div>
+<form class="flex flex-col gap-4">
+<input class="rounded border-none bg-white/20 p-3 text-white placeholder-slate-300 focus:ring-2 focus:ring-secondary" placeholder="Your Name" type="text"/>
+<input class="rounded border-none bg-white/20 p-3 text-white placeholder-slate-300 focus:ring-2 focus:ring-secondary" placeholder="Your Email" type="email"/>
+<textarea class="rounded border-none bg-white/20 p-3 text-white placeholder-slate-300 focus:ring-2 focus:ring-secondary" placeholder="Your Message" rows="4"></textarea>
+<button class="w-full cursor-pointer rounded-full bg-secondary py-3 font-bold text-primary transition-transform hover:scale-105" type="submit">Send Message</button>
+</form>
+</div>
+</section>
+</div>
+</main>
+<footer class="flex justify-center border-t border-slate-200/80 bg-card-light px-4 py-6 dark:border-slate-800/80 dark:bg-card-dark">
+<div class="flex w-full max-w-6xl flex-col items-center justify-between gap-4 text-center md:flex-row">
+<p class="text-sm text-subtle-light dark:text-subtle-dark">© 2024 John Doe. All Rights Reserved.</p>
+<div class="flex items-center gap-4">
+<a class="text-subtle-light hover:text-primary dark:text-subtle-dark dark:hover:text-secondary" href="#">LinkedIn</a>
+<a class="text-subtle-light hover:text-primary dark:text-subtle-dark dark:hover:text-secondary" href="#">YouTube</a>
+</div>
+</div>
+</footer>
+</div>
+
+</body></html>

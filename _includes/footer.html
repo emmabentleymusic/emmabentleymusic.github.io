@@ -1,0 +1,13 @@
+<footer class="flex justify-center border-t border-slate-200/80 bg-white px-4 py-6 dark:border-slate-800/80 dark:bg-background-dark">
+    <div class="flex w-full max-w-6xl flex-col items-center justify-between gap-4 text-center md:flex-row">
+        <p class="text-sm text-slate-600 dark:text-slate-400">© {{ 'now' | date: "%Y" }} {{ site.title }}. All Rights Reserved.</p>
+        <div class="flex items-center gap-4">
+            {% if site.social.linkedin %}
+            <a class="text-slate-600 hover:text-primary dark:text-slate-400 dark:hover:text-primary" href="{{ site.social.linkedin }}">LinkedIn</a>
+            {% endif %}
+            {% if site.social.youtube %}
+            <a class="text-slate-600 hover:text-primary dark:text-slate-400 dark:hover:text-primary" href="{{ site.social.youtube }}">YouTube</a>
+            {% endif %}
+        </div>
+    </div>
+</footer>
