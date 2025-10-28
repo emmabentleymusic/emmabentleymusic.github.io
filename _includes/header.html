@@ -34,7 +34,43 @@
             <span class="truncate">Book a Lesson</span>
         </a>
     </div>
-    <button class="md:hidden text-slate-800 dark:text-slate-200">
+    <button class="md:hidden text-slate-800 dark:text-slate-200" onclick="document.getElementById('mobileMenu').classList.toggle('hidden')">
         <span class="material-symbols-outlined">menu</span>
     </button>
+    
+    <!-- Mobile Menu -->
+    <div id="mobileMenu" class="hidden md:hidden fixed inset-0 z-50">
+        <div class="fixed inset-0 bg-slate-900/50" onclick="document.getElementById('mobileMenu').classList.add('hidden')"></div>
+        <div class="fixed right-0 top-0 h-full w-64 bg-white dark:bg-background-dark shadow-xl">
+            <div class="flex items-center justify-between p-4 border-b border-slate-200 dark:border-slate-800">
+                <h2 class="font-display text-slate-900 dark:text-slate-50 text-lg font-bold">Menu</h2>
+                <button onclick="document.getElementById('mobileMenu').classList.add('hidden')" class="text-slate-500">
+                    <span class="material-symbols-outlined">close</span>
+                </button>
+            </div>
+            <nav class="p-4 flex flex-col gap-4">
+                <a class="text-slate-600 dark:text-slate-400 text-sm font-medium {% if page.url == '/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+                <a class="text-slate-600 dark:text-slate-400 text-sm font-medium {% if page.url == '/about/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/about' | relative_url }}">About Me</a>
+                
+                <!-- Mobile Teaching Menu -->
+                <div class="space-y-2">
+                    <button onclick="this.nextElementSibling.classList.toggle('hidden')" class="text-slate-600 dark:text-slate-400 text-sm font-medium flex items-center justify-between w-full {% if page.url contains '/teaching' or page.url contains '/school-teaching' or page.url contains '/teaching-portfolio' %}text-primary dark:text-primary font-bold{% endif %}">
+                        Teaching
+                        <span class="material-symbols-outlined text-sm">expand_more</span>
+                    </button>
+                    <div class="hidden pl-4 space-y-2">
+                        <a class="block text-slate-600 dark:text-slate-400 text-sm font-medium {% if page.url == '/teaching/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/teaching' | relative_url }}">Private Studio</a>
+                        <a class="block text-slate-600 dark:text-slate-400 text-sm font-medium {% if page.url == '/school-teaching/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/school-teaching' | relative_url }}">School Teaching</a>
+                        <a class="block text-slate-600 dark:text-slate-400 text-sm font-medium {% if page.url == '/teaching-portfolio/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/teaching-portfolio' | relative_url }}">Teaching Portfolio</a>
+                    </div>
+                </div>
+                
+                <a class="text-slate-600 dark:text-slate-400 text-sm font-medium {% if page.url == '/portfolio/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/portfolio' | relative_url }}">Portfolio</a>
+                <a class="text-slate-600 dark:text-slate-400 text-sm font-medium {% if page.url == '/contact/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/contact' | relative_url }}">Contact</a>
+                <a href="{{ '/contact' | relative_url }}" class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors">
+                    <span class="truncate">Book a Lesson</span>
+                </a>
+            </nav>
+        </div>
+    </div>
 </header>
