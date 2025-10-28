@@ -12,7 +12,17 @@
         <nav class="flex items-center gap-9">
             <a class="text-slate-600 dark:text-slate-400 text-sm font-medium leading-normal hover:text-primary dark:hover:text-primary {% if page.url == '/' %}text-primary dark:text-primary text-sm font-bold{% endif %}" href="{{ '/' | relative_url }}">Home</a>
             <a class="text-slate-600 dark:text-slate-400 text-sm font-medium leading-normal hover:text-primary dark:hover:text-primary {% if page.url == '/about/' %}text-primary dark:text-primary text-sm font-bold{% endif %}" href="{{ '/about' | relative_url }}">About Me</a>
-            <a class="text-slate-600 dark:text-slate-400 text-sm font-medium leading-normal hover:text-primary dark:hover:text-primary {% if page.url == '/teaching/' %}text-primary dark:text-primary text-sm font-bold{% endif %}" href="{{ '/teaching' | relative_url }}">Teaching Studio</a>
+            <div class="relative group">
+                <button class="text-slate-600 dark:text-slate-400 text-sm font-medium leading-normal hover:text-primary dark:hover:text-primary flex items-center gap-1 {% if page.url contains '/teaching' or page.url contains '/school-teaching' or page.url contains '/teaching-portfolio' %}text-primary dark:text-primary text-sm font-bold{% endif %}">
+                    Teaching
+                    <span class="material-symbols-outlined text-sm">expand_more</span>
+                </button>
+                <div class="absolute left-0 top-full mt-2 w-48 bg-white dark:bg-background-dark rounded-lg shadow-lg border border-slate-200 dark:border-slate-800 hidden group-hover:block">
+                    <a class="block px-4 py-2 text-slate-600 dark:text-slate-400 text-sm font-medium hover:bg-slate-50 dark:hover:bg-slate-800 {% if page.url == '/teaching/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/teaching' | relative_url }}">Private Studio</a>
+                    <a class="block px-4 py-2 text-slate-600 dark:text-slate-400 text-sm font-medium hover:bg-slate-50 dark:hover:bg-slate-800 {% if page.url == '/school-teaching/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/school-teaching' | relative_url }}">School Teaching</a>
+                    <a class="block px-4 py-2 text-slate-600 dark:text-slate-400 text-sm font-medium hover:bg-slate-50 dark:hover:bg-slate-800 {% if page.url == '/teaching-portfolio/' %}text-primary dark:text-primary font-bold{% endif %}" href="{{ '/teaching-portfolio' | relative_url }}">Teaching Portfolio</a>
+                </div>
+            </div>
             <a class="text-slate-600 dark:text-slate-400 text-sm font-medium leading-normal hover:text-primary dark:hover:text-primary {% if page.url == '/portfolio/' %}text-primary dark:text-primary text-sm font-bold{% endif %}" href="{{ '/portfolio' | relative_url }}">Portfolio</a>
             <a class="text-slate-600 dark:text-slate-400 text-sm font-medium leading-normal hover:text-primary dark:hover:text-primary {% if page.url == '/contact/' %}text-primary dark:text-primary text-sm font-bold{% endif %}" href="{{ '/contact' | relative_url }}">Contact</a>
         </nav>
