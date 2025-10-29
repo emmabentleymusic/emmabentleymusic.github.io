@@ -34,12 +34,10 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                 <div class="w-px bg-slate-300 dark:bg-slate-600 grow"></div>
             </div>
             <div class="flex flex-1 flex-col pb-12">
-                <p class="text-lg font-bold text-slate-900 dark:text-slate-100">General Music Teacher</p>
-                <p class="text-base text-slate-600 dark:text-slate-400">Maplewood Elementary | 2020 - Present</p>
+                <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Substitute Teacher</p>
+                <p class="text-base text-slate-600 dark:text-slate-400">English Montréal School Board | 2025 - Present</p>
                 <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
-                    <li>Developed and implemented a standards-based K-5 general music curriculum.</li>
-                    <li>Directed the 50-member after-school choir, performing at school and community events.</li>
-                    <li>Integrated technology such as SmartMusic and Google Classroom to enhance student learning.</li>
+                    <li>Taught full-length lessons to students in all subject areas.</li>
                 </ul>
             </div>
             
@@ -72,8 +70,14 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                 <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
                     <li>Taught full-length lessons and shorter activities to students grades 2–4.</li>
                     <li>Taught classes and sectionals in band classes grades 5–12 in the Lakewood City Schools, wrote lesson plans, and advocated for community arts under the supervision of two Cooperating Teachers and a University Supervisor .</li>
+                    <li>Utilized research-based approaches to general music education, including Dalcroze Eurhythmics, the Kodály Method, and Gordon Music Learning Theory to design and implement lesson plans.</li>
                 </ul>
             </div>
+
+
+
+
+            
         </div>
     </div>
 </div>
