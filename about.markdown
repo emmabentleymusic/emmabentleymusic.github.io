@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Dedicated musician and educator passionate about sharing the joy of music
+subtitle: Dedicated music educator passionate about sharing the joy of music
 permalink: /about/
 ---
 
@@ -9,31 +9,31 @@ permalink: /about/
     <div class="md:col-span-2">
         <section class="prose dark:prose-invert max-w-none">
             <p class="text-lg leading-relaxed text-slate-600 dark:text-slate-400">
-                Welcome! I'm Emma Bentley, a professional musician and dedicated music educator with over a decade of
+                Welcome! I'm Emma Bentley, a dedicated music educator and professional musician and with over 4 years of
                 experience in performance and teaching. My journey in music began at an early age, and I've had the privilege
-                of studying with some of the finest teachers and performing in renowned venues across the country.
+                of studying with some wonderful teachers throughout my musical journey. These experiences have shaped my approach to teaching, allowing me to bring real-world
+                performance experience into my lessons while maintaining a strong foundation in pedagogy.
             </p>
             
             <h2 class="font-display text-2xl font-bold text-primary dark:text-secondary mt-8 mb-4">Musical Journey</h2>
             <p class="text-slate-600 dark:text-slate-400">
-                My musical education includes degrees from prestigious institutions, where I honed my skills as both a
-                performer and educator. This dual focus has shaped my approach to teaching, allowing me to bring real-world
-                performance experience into my lessons while maintaining a strong foundation in pedagogy.
+                My musical education includes a Bachelor of Science in Music Education from Case Western Reserve University (CWRU) in Cleveland, Ohio, where I honed my skills as both a
+                performer and educator. While studying at CWRU, I had the priviledge of studying clarinet as my primary instrument, and percussion as a secondary. Throughout my undergraduate career, I priortized comprehensively learning all instruments, so that I may better help future students. I was lucky enough to have performed on the cello, french horn, trumpet, and saxophone, in addition to my studies.
             </p>
             
             <h2 class="font-display text-2xl font-bold text-primary dark:text-secondary mt-8 mb-4">Teaching Philosophy</h2>
             <p class="text-slate-600 dark:text-slate-400">
-                I believe that every student has unique potential waiting to be discovered. My teaching approach combines
-                traditional techniques with modern methods, creating an engaging learning environment that promotes both
+                I believe that music education has a unique capability to build students’ self-confidence and self-efficacy. My teaching approach combines
+                traditional techniques with trauma-informed cultural competency, creating an engaging learning environment that promotes both
                 technical excellence and creative expression. Whether working with beginners or advanced students, I tailor
-                my instruction to meet individual needs and goals.
+                my instruction to meet individual needs and goals. I strive for my students to walk away from our experiences with a deeper appreciation for music as well as hold musical and life skills that they can apply to their lives in various meaningful ways. 
             </p>
             
             <h2 class="font-display text-2xl font-bold text-primary dark:text-secondary mt-8 mb-4">Performance Career</h2>
             <p class="text-slate-600 dark:text-slate-400">
-                As an active performer, I regularly appear with orchestras, chamber ensembles, and as a solo recitalist.
+                As an active performer, I regularly appear with orchestras, and chamber ensembles.
                 These experiences inform my teaching and allow me to provide students with insights into the professional
-                music world. I believe that maintaining an active performance career is essential to being an effective
+                music world. I truly enjoy performing with others, and actively demonstrate to my students my enthuiasm. I believe that maintaining an active performance career is essential to being an effective
                 educator.
             </p>
         </section>
@@ -44,18 +44,16 @@ permalink: /about/
                 <div class="bg-white dark:bg-card-dark rounded-lg p-6">
                     <h3 class="font-bold mb-2">Performance Highlights</h3>
                     <ul class="space-y-2 text-slate-600 dark:text-slate-400">
-                        <li>• Featured soloist with City Symphony</li>
-                        <li>• Chamber music festival participant</li>
-                        <li>• Guest artist at music academies</li>
+                        <li>• Featured soloist with the Case/University Circle Symphony Orchestra</li>
+                        <li>• Joan Terr Ronis Memorial Recital Winner</li>
                     </ul>
                 </div>
                 
                 <div class="bg-white dark:bg-card-dark rounded-lg p-6">
                     <h3 class="font-bold mb-2">Teaching Recognition</h3>
                     <ul class="space-y-2 text-slate-600 dark:text-slate-400">
-                        <li>• Excellence in Music Education Award</li>
-                        <li>• Workshop presenter at conferences</li>
-                        <li>• Published teaching materials</li>
+                        <li>• Outstanding Performance in Music Education Award</li>
+                        <li>• Departmental Honors in Music Education</li>
                     </ul>
                 </div>
             </div>
@@ -70,7 +68,7 @@ permalink: /about/
                 <ul class="space-y-3">
                     <li class="flex items-center gap-3">
                         <span class="material-symbols-outlined text-primary dark:text-secondary">school</span>
-                        <span class="text-slate-600 dark:text-slate-400">Master of Music in Performance</span>
+                        <span class="text-slate-600 dark:text-slate-400">Bachelor of Science in Music Education</span>
                     </li>
                     <li class="flex items-center gap-3">
                         <span class="material-symbols-outlined text-primary dark:text-secondary">music_note</span>

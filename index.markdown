@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Emma Bentley | Professional Musician & Educator
-subtitle: Nurturing a lifelong passion for music through dedicated teaching and professional performance.
+subtitle: Nurturing a lifelong passion for music through empowering students and professional performance.
 hero_image: /assets/images/hero.jpg
 cta_buttons:
   - text: Book a Free Trial Lesson
@@ -16,12 +16,12 @@ cta_buttons:
         <div class="md:col-span-2">
             <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary">About Me</h2>
             <p class="mt-6 text-base leading-relaxed text-slate-600 dark:text-slate-400">
-                Welcome to my musical world! As a dedicated musician and educator, I bring my passion for music to every lesson
+                Welcome to my musical world! As a dedicated music educator, I bring my passion for music to every lesson
                 and performance. With extensive experience and a deep understanding of music education, I strive to create an
                 engaging and supportive environment where students can explore their musical potential.
             </p>
             <p class="mt-4 text-base leading-relaxed text-slate-600 dark:text-slate-400">
-                My approach combines rigorous technical training with creative expression, ensuring students not only master
+                My approach combines technical training with creative expression, ensuring students not receive comprehensive musical training
                 their instrument but also develop a profound appreciation for music.
             </p>
         </div>
@@ -35,7 +35,7 @@ cta_buttons:
     <div class="text-center">
         <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary">Private Lessons</h2>
         <p class="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-slate-600 dark:text-slate-400">
-            Offering personalized music education for students of all ages and skill levels. My studio is a supportive
+            Offering personalized music education for students of all ages and skill levels. My studio is an inclusive
             environment where students can explore their musical potential. One-on-one instruction is tailored to your
             individual goals, focusing on technique, theory, and repertoire.
         </p>
