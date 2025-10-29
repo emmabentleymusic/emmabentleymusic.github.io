@@ -1,28 +1,28 @@
 ---
 layout: page
-title: K-12 Music Education
+title: PK-12 Music Education
 subtitle: Dedicated to fostering a lifelong love of music through engaging and student-centered instruction in the public school setting.
 ---
 
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
     <div class="flex flex-col gap-2 rounded-xl p-6 border border-slate-200 dark:border-slate-700 bg-white dark:bg-card-dark">
         <p class="text-slate-600 dark:text-slate-400 text-base font-medium leading-normal">Degree</p>
-        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight">B.M. in Music Education</p>
+        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight">B.S. in Music Education</p>
     </div>
     <div class="flex flex-col gap-2 rounded-xl p-6 border border-slate-200 dark:border-slate-700 bg-white dark:bg-card-dark">
         <p class="text-slate-600 dark:text-slate-400 text-base font-medium leading-normal">Certification</p>
-        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight">State Certified (PK-12)</p>
+        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight">Ohio State Certified (PK-12)</p>
     </div>
     <div class="flex flex-col gap-2 rounded-xl p-6 border border-slate-200 dark:border-slate-700 bg-white dark:bg-card-dark">
         <p class="text-slate-600 dark:text-slate-400 text-base font-medium leading-normal">Experience</p>
-        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight">5+ Years</p>
+        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight">1 Year</p>
     </div>
 </div>
 
 <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 mb-16">
     <div class="lg:col-span-1">
         <h2 class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight tracking-tight pb-4">Teaching Experience</h2>
-        <p class="text-slate-600 dark:text-slate-400 leading-relaxed">A chronological overview of my roles in public school music education, from student teaching to my current position.</p>
+        <p class="text-slate-600 dark:text-slate-400 leading-relaxed">A chronological overview of my roles in public school music education.</p>
         <p class="mt-4 text-slate-600 dark:text-slate-400 leading-relaxed">For detailed materials, including videos and lesson plans, please visit the <a class="font-semibold text-primary hover:underline" href="/teaching-portfolio">Teaching Portfolio</a> page.</p>
     </div>
     <div class="lg:col-span-2">
@@ -67,11 +67,11 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                 </div>
             </div>
             <div class="flex flex-1 flex-col">
-                <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Student Teacher</p>
-                <p class="text-base text-slate-600 dark:text-slate-400">Oak Valley Middle School | Spring 2018</p>
+                <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Student Teaching and Fieldwork</p>
+                <p class="text-base text-slate-600 dark:text-slate-400">Lakewood City Schools | Spring 2024 - Spring 2025</p>
                 <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
-                    <li>Assisted with 6th-8th grade concert bands and general music classes.</li>
-                    <li>Led full-class instruction under the mentorship of a master teacher.</li>
+                    <li>Taught full-length lessons and shorter activities to students grades 2–4.</li>
+                    <li>Taught classes and sectionals in band classes grades 5–12 in the Lakewood City Schools, wrote lesson plans, and advocated for community arts under the supervision of two Cooperating Teachers and a University Supervisor .</li>
                 </ul>
             </div>
         </div>
