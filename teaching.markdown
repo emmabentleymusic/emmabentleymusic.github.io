@@ -8,24 +8,24 @@ subtitle: Discover your musical potential through personalized instruction and a
     <div class="bg-white dark:bg-card-dark rounded-xl p-6 md:p-8">
         <h3 class="font-display text-2xl font-bold text-primary dark:text-secondary mb-4">Studio Philosophy</h3>
         <p class="text-slate-600 dark:text-slate-400 mb-4">
-            My teaching philosophy centers on developing well-rounded musicians who not only master their instrument but also
-            understand and appreciate the art of music. Each student receives individualized attention and a customized
-            curriculum that addresses their specific goals and learning style.
+            My teaching philosophy centers on developing well-rounded musicians who not only refine their musical skills, but also
+            appreciate and enjoy the art of music. In lessons, students learn the necessary skills to perform a wide variety of music, ultimately allowing them to become lifelong musicians. Each student receives individualized attention and customized
+            instruction that addresses their specific goals and learning needs.
         </p>
         <p class="text-slate-600 dark:text-slate-400">
-            Through a combination of technical exercises, music theory, ear training, and repertoire study, students develop
-            the skills and knowledge needed to become confident, expressive musicians.
+            Students will develop
+            the skills and knowledge needed to become confident, expressive musicians. Lessons are conducted in a safe environment where students will retain those skills more effectively, building more life-long musicians.
         </p>
     </div>
     
     <div class="bg-white dark:bg-card-dark rounded-xl p-6 md:p-8">
-        <h3 class="font-display text-2xl font-bold text-primary dark:text-secondary mb-4">Lesson Structure</h3>
+        <h3 class="font-display text-2xl font-bold text-primary dark:text-secondary mb-4">Lesson Components</h3>
         <ul class="space-y-4">
             <li class="flex items-start gap-3">
                 <span class="material-symbols-outlined text-primary dark:text-secondary mt-1">check_circle</span>
                 <div>
                     <h4 class="font-bold mb-1">Warm-up & Technique</h4>
-                    <p class="text-slate-600 dark:text-slate-400 text-sm">Focused exercises to develop proper form, tone, and technical facility</p>
+                    <p class="text-slate-600 dark:text-slate-400 text-sm">Focused exercises to develop proper breathing, tone, and technical dexterity</p>
                 </div>
             </li>
             <li class="flex items-start gap-3">
@@ -38,15 +38,15 @@ subtitle: Discover your musical potential through personalized instruction and a
             <li class="flex items-start gap-3">
                 <span class="material-symbols-outlined text-primary dark:text-secondary mt-1">check_circle</span>
                 <div>
-                    <h4 class="font-bold mb-1">Repertoire Study</h4>
-                    <p class="text-slate-600 dark:text-slate-400 text-sm">Working on pieces that challenge and inspire while building a diverse musical portfolio</p>
+                    <h4 class="font-bold mb-1">Key Area Study</h4>
+                    <p class="text-slate-600 dark:text-slate-400 text-sm">Developing facility in all major and minor key areas and their scales</p>
                 </div>
             </li>
             <li class="flex items-start gap-3">
                 <span class="material-symbols-outlined text-primary dark:text-secondary mt-1">check_circle</span>
                 <div>
-                    <h4 class="font-bold mb-1">Performance Preparation</h4>
-                    <p class="text-slate-600 dark:text-slate-400 text-sm">Regular opportunities to perform and develop confidence on stage</p>
+                    <h4 class="font-bold mb-1">Repertoire Preparation</h4>
+                    <p class="text-slate-600 dark:text-slate-400 text-sm">Working on pieces that challenge and inspire while building a diverse musical portfolio</p>
                 </div>
             </li>
         </ul>

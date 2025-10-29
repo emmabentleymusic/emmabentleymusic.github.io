@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-subtitle: Explore my performances, recordings, and professional work in music education
+title: Performance Portfolio
+subtitle: Explore my performances and recordings
 ---
 
 <section class="mb-16">
@@ -35,37 +35,37 @@ subtitle: Explore my performances, recordings, and professional work in music ed
                 <h3 class="font-display text-xl font-bold mb-4">Academic Background</h3>
                 <ul class="space-y-4">
                     <li class="border-l-2 border-primary dark:border-secondary pl-4">
-                        <h4 class="font-bold">Master of Music in Performance</h4>
+                        <h4 class="font-bold">Bachelor of Science in Music Education</h4>
                         <p class="text-slate-600 dark:text-slate-400 text-sm">
-                            Prestigious Music School<br>
-                            2020-2022
+                            Case Western Reserve University<br>
+                            2021-2025
                         </p>
                     </li>
                     <li class="border-l-2 border-primary dark:border-secondary pl-4">
-                        <h4 class="font-bold">Bachelor of Music in Education</h4>
+                        <h4 class="font-bold">Eurhythmics Study</h4>
                         <p class="text-slate-600 dark:text-slate-400 text-sm">
-                            Another Fine Institution<br>
-                            2016-2020
+                            Cleveland Institute of Music<br>
+                            2021-2025
                         </p>
                     </li>
                 </ul>
             </div>
             
             <div>
-                <h3 class="font-display text-xl font-bold mb-4">Teaching Experience</h3>
+                <h3 class="font-display text-xl font-bold mb-4">Principal Teachers</h3>
                 <ul class="space-y-4">
                     <li class="border-l-2 border-primary dark:border-secondary pl-4">
-                        <h4 class="font-bold">Private Studio Teacher</h4>
+                        <h4 class="font-bold">Mr. Daniel Gilbert</h4>
                         <p class="text-slate-600 dark:text-slate-400 text-sm">
-                            Independent Studio<br>
-                            2020-Present
+                            Clarinet<br>
+                            2021-2025
                         </p>
                     </li>
                     <li class="border-l-2 border-primary dark:border-secondary pl-4">
-                        <h4 class="font-bold">Music Education Intern</h4>
+                        <h4 class="font-bold">Mr. Matthew Larson</h4>
                         <p class="text-slate-600 dark:text-slate-400 text-sm">
-                            Local School District<br>
-                            2019-2020
+                            Percussion<br>
+                            2022-2025
                         </p>
                     </li>
                 </ul>
