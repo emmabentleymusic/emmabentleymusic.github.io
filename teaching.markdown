@@ -63,7 +63,7 @@ subtitle: Discover your musical potential through personalized instruction and a
                 <li>• Introduction to instrument & basic technique</li>
                 <li>• Reading music notation</li>
                 <li>• Basic music theory concepts</li>
-                <li>• Simple pieces & exercises</li>
+                <li>• Accessible repertoire & exercises</li>
                 <li>• Building practice habits</li>
             </ul>
         </div>
@@ -71,22 +71,22 @@ subtitle: Discover your musical potential through personalized instruction and a
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <h3 class="font-display text-xl font-bold mb-3">Intermediate Level</h3>
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
-                <li>• Advanced technical studies</li>
+                <li>• Moderate technical studies</li>
                 <li>• Scale & arpeggio work</li>
                 <li>• Music theory & analysis</li>
-                <li>• Classical & contemporary repertoire</li>
-                <li>• Chamber music opportunities</li>
+                <li>• More challenging repertoire</li>
+                <li>• Sight reading opportunities</li>
             </ul>
         </div>
         
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <h3 class="font-display text-xl font-bold mb-3">Advanced Level</h3>
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
-                <li>• Professional repertoire</li>
-                <li>• Advanced interpretation & style</li>
+                <li>• Advanced repertoire</li>
+                <li>• High-level interpretation & style</li>
                 <li>• Performance techniques</li>
                 <li>• Audition preparation</li>
-                <li>• Competition coaching</li>
+                <li>• Creation of more intensive practice plan</li>
             </ul>
         </div>
     </div>
@@ -106,11 +106,11 @@ subtitle: Discover your musical potential through personalized instruction and a
                     </li>
                     <li class="flex items-center gap-2">
                         <span class="material-symbols-outlined text-primary dark:text-secondary">calendar_month</span>
-                        <span>Flexible scheduling, including evenings and weekends</span>
+                        <span>Flexible scheduling</span>
                     </li>
                     <li class="flex items-center gap-2">
-                        <span class="material-symbols-outlined text-primary dark:text-secondary">location_on</span>
-                        <span>In-person and online lessons available</span>
+                        <span class="material-symbols-outlined text-primary dark:text-secondary">language</span>
+                        <span>Lessons occur in English</span>
                     </li>
                 </ul>
             </div>
@@ -120,7 +120,7 @@ subtitle: Discover your musical potential through personalized instruction and a
                 <ul class="space-y-3 text-slate-600 dark:text-slate-400">
                     <li class="flex items-center gap-2">
                         <span class="material-symbols-outlined text-primary dark:text-secondary">payments</span>
-                        <span>Monthly tuition paid in advance</span>
+                        <span>Weekly tuition paid in advance</span>
                     </li>
                     <li class="flex items-center gap-2">
                         <span class="material-symbols-outlined text-primary dark:text-secondary">event_busy</span>
@@ -128,7 +128,7 @@ subtitle: Discover your musical potential through personalized instruction and a
                     </li>
                     <li class="flex items-center gap-2">
                         <span class="material-symbols-outlined text-primary dark:text-secondary">music_note</span>
-                        <span>Regular practice expected</span>
+                        <span>Regular practice encouraged for maximized improvement</span>
                     </li>
                 </ul>
             </div>
