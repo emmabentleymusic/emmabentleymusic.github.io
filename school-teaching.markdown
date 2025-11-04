@@ -15,7 +15,7 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
     </div>
     <div class="flex flex-col gap-2 rounded-xl p-6 border border-slate-200 dark:border-slate-700 bg-white dark:bg-card-dark">
         <p class="text-slate-600 dark:text-slate-400 text-base font-medium leading-normal">Experience</p>
-        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight">1 Year</p>
+        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight">2 Years</p>
     </div>
 </div>
 
@@ -40,7 +40,6 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                     <li>Taught full-length lessons to students in all subject areas.</li>
                 </ul>
             </div>
-            
             <div class="flex flex-col items-center gap-2">
                 <div class="w-px bg-slate-300 dark:bg-slate-600 h-4"></div>
                 <div class="bg-primary/20 text-primary rounded-full p-2">
@@ -49,22 +48,6 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                 <div class="w-px bg-slate-300 dark:bg-slate-600 grow"></div>
             </div>
             <div class="flex flex-1 flex-col pb-12">
-                <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Assistant Band Director</p>
-                <p class="text-base text-slate-600 dark:text-slate-400">North Ridge High School | 2018 - 2020</p>
-                <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
-                    <li>Co-directed the 120-member marching band, achieving Superior ratings at state contests.</li>
-                    <li>Taught beginner woodwind classes and led sectional rehearsals for the concert band.</li>
-                    <li>Managed instrument inventory and the music library.</li>
-                </ul>
-            </div>
-            
-            <div class="flex flex-col items-center gap-2">
-                <div class="w-px bg-slate-300 dark:bg-slate-600 h-4"></div>
-                <div class="bg-primary/20 text-primary rounded-full p-2">
-                    <span class="material-symbols-outlined text-2xl">group</span>
-                </div>
-            </div>
-            <div class="flex flex-1 flex-col">
                 <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Student Teaching and Fieldwork</p>
                 <p class="text-base text-slate-600 dark:text-slate-400">Lakewood City Schools | Spring 2024 - Spring 2025</p>
                 <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
@@ -73,7 +56,36 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                     <li>Utilized research-based approaches to general music education, including Dalcroze Eurhythmics, the Kodály Method, and Gordon Music Learning Theory to design and implement lesson plans.</li>
                 </ul>
             </div>
-
+            
+            <div class="flex flex-col items-center gap-2">
+                <div class="w-px bg-slate-300 dark:bg-slate-600 h-4"></div>
+                <div class="bg-primary/20 text-primary rounded-full p-2">
+                    <span class="material-symbols-outlined text-2xl">piano</span>
+                </div>
+                <div class="w-px bg-slate-300 dark:bg-slate-600 grow"></div>
+            </div>
+            <div class="flex flex-1 flex-col pb-12">
+                <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Substitute Teacher</p>
+                <p class="text-base text-slate-600 dark:text-slate-400">Victor Central School District | 2023 - 2025</p>
+                <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
+                    <li>Taught full-length lessons to students in all subject areas.</li>
+                    <li>Music-specific experience included PK-1 general music, grades 2–3 strings lessons, grades 4–6 orchestra, high school piano class, and high school choir.</li>
+                </ul>
+            </div>
+            
+            <div class="flex flex-col items-center gap-2">
+                <div class="w-px bg-slate-300 dark:bg-slate-600 h-4"></div>
+                <div class="bg-primary/20 text-primary rounded-full p-2">
+                    <span class="material-symbols-outlined text-2xl">directions_run</span>
+                </div>
+            </div>
+            <div class="flex flex-1 flex-col">
+                <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Eurhythmics Teacher</p>
+                <p class="text-base text-slate-600 dark:text-slate-400">Various Schools in Cleveland, OH | Spring 2024</p>
+                <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
+                    <li>Taught and planned Dalcroze eurhtyhmics lessons to students aged 3–18.</li>
+                </ul>
+            </div>
 
 
 
@@ -103,8 +115,8 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                         <span class="material-symbols-outlined transition-transform group-open:rotate-180">expand_more</span>
                     </summary>
                     <p class="mt-2 text-slate-600 dark:text-slate-400">
-                        Certified in Orff-Schulwerk (Level I) and experienced in applying Kodály and Dalcroze principles in
-                        the general music classroom.
+                        Experienced in applying Kodály, Orff, and Dalcroze in
+                        the general music classroom. Experienced in leading Dalcroze eurhythmics exercises in music classrooms of all ages and types.
                     </p>
                 </details>
                 
@@ -114,7 +126,7 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                         <span class="material-symbols-outlined transition-transform group-open:rotate-180">expand_more</span>
                     </summary>
                     <p class="mt-2 text-slate-600 dark:text-slate-400">
-                        Proficient with Google Classroom, SmartMusic, Noteflight, Sibelius, and interactive whiteboard
+                        Proficient with Google workspace, SmartMusic, iMovie, LogicPro, various audio/visual technologies such as BlackMagic, Noteflight, MuseScore, and interactive whiteboard
                         technologies for engaging instruction.
                     </p>
                 </details>
