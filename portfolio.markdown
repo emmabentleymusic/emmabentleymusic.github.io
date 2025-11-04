@@ -79,7 +79,7 @@ subtitle: Explore my performances and recordings
     
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
-            <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">workspace_premium</span>
+            <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">school</span>
             <h3 class="font-display text-xl font-bold mb-2">Conducting Experience</h3>
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
                 <li>• CWRU Clarinet Choir - Music Director</li>
@@ -89,7 +89,7 @@ subtitle: Explore my performances and recordings
         </div>
         
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
-            <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">military_tech</span>
+            <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">music_note</span>
             <h3 class="font-display text-xl font-bold mb-2">Secondary Instrument Performance</h3>
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
                 <li>• Percussion - CWRU Percussion Ensemble</li>
