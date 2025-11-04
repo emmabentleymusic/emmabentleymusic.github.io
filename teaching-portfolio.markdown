@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching Portfolio
-subtitle: A showcase of my dedication to fostering musical excellence. Here you'll find examples of my teaching methodology, student successes, and the vibrant learning environments I create in the classroom.
+subtitle: A showcase of my dedication to fostering musical excellence. Here you'll find examples of my teaching methodology through videos, lesson plans, and other various sample materials that demonstrate the vibrant learning environments I create in the classroom.
 ---
 
 <section class="mb-16">
