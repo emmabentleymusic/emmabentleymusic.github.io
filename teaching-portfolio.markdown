@@ -81,15 +81,15 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
 </section>
 
 <section class="mb-16">
-    <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8 text-center">Professional Development</h2>
+    <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8 text-center">Additional Resources</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">workspace_premium</span>
-            <h3 class="font-display text-xl font-bold mb-2">Certifications</h3>
+            <h3 class="font-display text-xl font-bold mb-2">Conducting and Performances</h3>
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
-                <li>• State Music Education License</li>
-                <li>• Orff-Schulwerk Level I</li>
-                <li>• Google Certified Educator</li>
+                <li>• Clarinet Choir and Harmonie Winds</li>
+                <li>• Spring 2022 - Spring 2025</li>
+                <li>• https://www.youtube.com/@CWRUChamberCollective</li>
             </ul>
         </div>
         
