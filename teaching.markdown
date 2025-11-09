@@ -17,7 +17,7 @@ subtitle: Discover your musical potential through personalized instruction and a
             the skills and knowledge needed to become confident, expressive musicians. Lessons are conducted in a safe environment where students will retain those skills more effectively, building more life-long musicians.
         </p>
     </div>
-    
+
     <div class="bg-white dark:bg-card-dark rounded-xl p-6 md:p-8">
         <h3 class="font-display text-2xl font-bold text-primary dark:text-secondary mb-4">Lesson Components</h3>
         <ul class="space-y-4">
@@ -55,7 +55,7 @@ subtitle: Discover your musical potential through personalized instruction and a
 
 <section class="mb-16" id="curriculum">
     <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8">Studio Curriculum</h2>
-    
+
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <h3 class="font-display text-xl font-bold mb-3">Beginner Level</h3>
@@ -67,7 +67,7 @@ subtitle: Discover your musical potential through personalized instruction and a
                 <li>• Building practice habits</li>
             </ul>
         </div>
-        
+
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <h3 class="font-display text-xl font-bold mb-3">Intermediate Level</h3>
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
@@ -78,7 +78,7 @@ subtitle: Discover your musical potential through personalized instruction and a
                 <li>• Sight reading opportunities</li>
             </ul>
         </div>
-        
+
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <h3 class="font-display text-xl font-bold mb-3">Advanced Level</h3>
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
@@ -94,7 +94,7 @@ subtitle: Discover your musical potential through personalized instruction and a
 
 <section class="mb-16" id="policies">
     <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8">Studio Policies</h2>
-    
+
     <div class="bg-white dark:bg-card-dark rounded-xl p-6 md:p-8">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
@@ -114,7 +114,7 @@ subtitle: Discover your musical potential through personalized instruction and a
                     </li>
                 </ul>
             </div>
-            
+
             <div>
                 <h3 class="font-display text-xl font-bold mb-4">Policies & Expectations</h3>
                 <ul class="space-y-3 text-slate-600 dark:text-slate-400">
@@ -143,7 +143,7 @@ subtitle: Discover your musical potential through personalized instruction and a
             Book a free trial lesson to experience our studio environment and discuss your musical goals.
         </p>
     </div>
-    
+
     <div class="flex justify-center">
         <a href="/contact" class="inline-flex cursor-pointer items-center justify-center overflow-hidden rounded-full bg-secondary px-8 py-3 text-sm font-bold text-primary transition-transform hover:scale-105">
             <span class="truncate">Schedule Your Trial Lesson</span>

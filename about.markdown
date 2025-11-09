@@ -14,21 +14,21 @@ permalink: /about/
                 of studying with some wonderful teachers throughout my musical journey. These experiences have shaped my approach to teaching, allowing me to bring real-world
                 performance experience into my lessons while maintaining a strong foundation in pedagogy.
             </p>
-            
+
             <h2 class="font-display text-2xl font-bold text-primary dark:text-secondary mt-8 mb-4">Musical Journey</h2>
             <p class="text-slate-600 dark:text-slate-400">
                 My musical education includes a Bachelor of Science in Music Education from Case Western Reserve University (CWRU) in Cleveland, Ohio, where I honed my skills as both a
-                performer and educator. While studying at CWRU, I had the priviledge of studying clarinet as my primary instrument, and percussion as a secondary. Throughout my undergraduate career, I priortized comprehensively learning all instruments, so that I may better help future students. I was lucky enough to have performed on the cello, french horn, trumpet, and saxophone, in addition to my studies.
+                performer and educator. While studying at CWRU, I had the privilege of studying clarinet as my primary instrument, and percussion as a secondary. Throughout my undergraduate career, I prioritized comprehensively learning all instruments, so that I may better help future students. I was lucky enough to have performed on the cello, french horn, trumpet, and saxophone, in addition to my studies.
             </p>
-            
+
             <h2 class="font-display text-2xl font-bold text-primary dark:text-secondary mt-8 mb-4">Teaching Philosophy</h2>
             <p class="text-slate-600 dark:text-slate-400">
                 I believe that music education has a unique capability to build students’ self-confidence and self-efficacy. My teaching approach combines
                 traditional techniques with trauma-informed cultural competency, creating an engaging learning environment that promotes both
                 technical excellence and creative expression. Whether working with beginners or advanced students, I tailor
-                my instruction to meet individual needs and goals. I strive for my students to walk away from our experiences with a deeper appreciation for music as well as hold musical and life skills that they can apply to their lives in various meaningful ways. 
+                my instruction to meet individual needs and goals. I strive for my students to walk away from our experiences with a deeper appreciation for music as well as hold musical and life skills that they can apply to their lives in various meaningful ways.
             </p>
-            
+
             <h2 class="font-display text-2xl font-bold text-primary dark:text-secondary mt-8 mb-4">Performance Career</h2>
             <p class="text-slate-600 dark:text-slate-400">
                 As an active performer, I regularly appear with orchestras, and chamber ensembles.
@@ -37,7 +37,7 @@ permalink: /about/
                 educator.
             </p>
         </section>
-        
+
         <section class="mt-12">
             <h2 class="font-display text-2xl font-bold text-primary dark:text-secondary mb-6">Recent Achievements</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
@@ -48,7 +48,7 @@ permalink: /about/
                         <li>• Joan Terr Ronis Memorial Recital Winner</li>
                     </ul>
                 </div>
-                
+
                 <div class="bg-white dark:bg-card-dark rounded-lg p-6">
                     <h3 class="font-bold mb-2">Teaching Recognition</h3>
                     <ul class="space-y-2 text-slate-600 dark:text-slate-400">
@@ -59,7 +59,7 @@ permalink: /about/
             </div>
         </section>
     </div>
-    
+
     <div class="md:sticky md:top-24">
         <div class="bg-white dark:bg-card-dark rounded-xl overflow-hidden">
             <img src="/assets/images/profile-large.jpg" alt="Emma Bentley" class="w-full h-auto">
@@ -83,7 +83,7 @@ permalink: /about/
                         <span class="text-slate-600 dark:text-slate-400">Active Chamber Musician</span>
                     </li>
                 </ul>
-                
+
                 <div class="mt-6 pt-6 border-t border-slate-200 dark:border-slate-700">
                     <h3 class="font-bold mb-3">Professional Affiliations</h3>
                     <ul class="space-y-2 text-sm text-slate-600 dark:text-slate-400">

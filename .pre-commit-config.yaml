@@ -1,0 +1,24 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.3.0
+    hooks:
+    - id: check-yaml
+    - id: end-of-file-fixer
+    - id: trailing-whitespace
+  - repo: https://github.com/oxipng/oxipng
+    rev: v9.1.5
+    hooks:
+      - id: oxipng
+        args: ["-o", "4", "--strip", "safe", "--alpha"]
+  - repo: local
+    hooks:
+      - id: sanitize-media
+        name: Sanitize images and videos (remove metadata)
+        language: system
+        entry: bash scripts/sanitize_media.sh
+        require_serial: true
+        files: '\.(jpg|jpeg|png|gif|mp4|mov|webm|mkv|avi|pdf)$'
+  - repo: https://github.com/crate-ci/typos
+    rev: v1.39.0
+    hooks:
+      - id: typos

@@ -6,7 +6,7 @@ subtitle: Explore my performances and recordings
 
 <section class="mb-16">
     <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8">Performances</h2>
-    
+
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
         {% for performance in site.performances limit:4 %}
         <div class="bg-white dark:bg-card-dark rounded-xl overflow-hidden">
@@ -28,7 +28,7 @@ subtitle: Explore my performances and recordings
 
 <section class="mb-16">
     <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8">Educational Experience</h2>
-    
+
     <div class="bg-white dark:bg-card-dark rounded-xl p-6 md:p-8">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
@@ -50,7 +50,7 @@ subtitle: Explore my performances and recordings
                     </li>
                 </ul>
             </div>
-            
+
             <div>
                 <h3 class="font-display text-xl font-bold mb-4">Principal Teachers</h3>
                 <ul class="space-y-4">
@@ -76,7 +76,7 @@ subtitle: Explore my performances and recordings
 
 <section class="mb-16">
     <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8">Performance Development</h2>
-    
+
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">school</span>
@@ -87,7 +87,7 @@ subtitle: Explore my performances and recordings
                 <li>• CWRU Camarata Orchestra - Conducting Assistant</li>
             </ul>
         </div>
-        
+
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">music_note</span>
             <h3 class="font-display text-xl font-bold mb-2">Secondary Instrument Performance</h3>
@@ -98,7 +98,7 @@ subtitle: Explore my performances and recordings
                 <li>• Trumpet - Lakewood Jazz Band</li>
             </ul>
         </div>
-        
+
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">groups</span>
             <h3 class="font-display text-xl font-bold mb-2">Ensembles</h3>

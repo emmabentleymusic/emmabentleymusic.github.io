@@ -13,14 +13,14 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
             </div>
             <p class="text-white text-base font-bold leading-tight w-4/5 line-clamp-2">Clarinet Sectional Rehearsal</p>
         </div>
-        
+
         <div class="bg-cover bg-center flex flex-col gap-3 rounded-lg justify-end p-4 aspect-video relative group overflow-hidden cursor-pointer" style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%), url('/assets/images/teaching/flute-masterclass.jpg');">
             <div class="absolute inset-0 bg-primary/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <span class="material-symbols-outlined text-white text-6xl">play_circle</span>
             </div>
             <p class="text-white text-base font-bold leading-tight w-4/5 line-clamp-2">Beginner Flute Masterclass</p>
         </div>
-        
+
         <div class="bg-cover bg-center flex flex-col gap-3 rounded-lg justify-end p-4 aspect-video relative group overflow-hidden cursor-pointer" style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%), url('/assets/images/teaching/concert-band.jpg');">
             <div class="absolute inset-0 bg-primary/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <span class="material-symbols-outlined text-white text-6xl">play_circle</span>
@@ -43,11 +43,11 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
             <p class="text-sm text-slate-600 dark:text-slate-400">
                 A detailed lesson plan focusing on dynamics and articulation for a Grade 10 concert band.
             </p>
-            <button class="mt-auto flex w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors">
+            <a href="/assets/pdfs/Sample Lesson Plan.pdf" target="_blank" class="mt-auto flex w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors">
                 <span class="truncate">View Document</span>
-            </button>
+            </a>
         </div>
-        
+
         <div class="flex flex-col gap-4 p-6 border rounded-lg bg-white dark:bg-card-dark border-slate-200 dark:border-slate-700">
             <div class="flex items-center gap-4">
                 <div class="flex h-12 w-12 items-center justify-center rounded-full bg-primary/20 text-primary">
@@ -62,7 +62,7 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
                 <span class="truncate">View Document</span>
             </button>
         </div>
-        
+
         <div class="flex flex-col gap-4 p-6 border rounded-lg bg-white dark:bg-card-dark border-slate-200 dark:border-slate-700">
             <div class="flex items-center gap-4">
                 <div class="flex h-12 w-12 items-center justify-center rounded-full bg-primary/20 text-primary">
@@ -92,7 +92,7 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
                 <li>• https://www.youtube.com/@CWRUChamberCollective</li>
             </ul>
         </div>
-        
+
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">military_tech</span>
             <h3 class="font-display text-xl font-bold mb-2">Achievements</h3>
@@ -102,7 +102,7 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
                 <li>• Published Educational Materials</li>
             </ul>
         </div>
-        
+
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">school</span>
             <h3 class="font-display text-xl font-bold mb-2">Professional Growth</h3>
@@ -127,7 +127,7 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
                 — Sarah Jenkins, Principal
             </footer>
         </blockquote>
-        
+
         <blockquote class="p-6 bg-white dark:bg-card-dark border-l-4 border-primary rounded-r-lg">
             <p class="font-display text-xl italic text-slate-800 dark:text-slate-200">
                 "My daughter was struggling with her confidence, but after a few months in this class, she's not only a

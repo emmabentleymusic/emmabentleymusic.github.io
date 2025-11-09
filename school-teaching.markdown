@@ -56,7 +56,7 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                     <li>Utilized research-based approaches to general music education, including Dalcroze Eurhythmics, the Kodály Method, and Gordon Music Learning Theory to design and implement lesson plans.</li>
                 </ul>
             </div>
-            
+
             <div class="flex flex-col items-center gap-2">
                 <div class="w-px bg-slate-300 dark:bg-slate-600 h-4"></div>
                 <div class="bg-primary/20 text-primary rounded-full p-2">
@@ -72,7 +72,7 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                     <li>Music-specific experience included PK-1 general music, grades 2–3 strings lessons, grades 4–6 orchestra, high school piano class, and high school choir.</li>
                 </ul>
             </div>
-            
+
             <div class="flex flex-col items-center gap-2">
                 <div class="w-px bg-slate-300 dark:bg-slate-600 h-4"></div>
                 <div class="bg-primary/20 text-primary rounded-full p-2">
@@ -89,7 +89,7 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
 
 
 
-            
+
         </div>
     </div>
 </div>
@@ -105,7 +105,7 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                 lasting appreciation for the arts.
             </p>
         </div>
-        
+
         <div>
             <h3 class="font-display text-slate-900 dark:text-slate-100 text-2xl font-bold leading-tight tracking-tight mb-4">Methodologies & Skills</h3>
             <div class="space-y-4">
@@ -119,7 +119,7 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
                         the general music classroom. Experienced in leading Dalcroze eurhythmics exercises in music classrooms of all ages and types.
                     </p>
                 </details>
-                
+
                 <details class="group p-4 rounded-lg bg-background-light dark:bg-background-dark cursor-pointer">
                     <summary class="flex items-center justify-between font-semibold text-slate-800 dark:text-slate-200">
                         Technology Integration
