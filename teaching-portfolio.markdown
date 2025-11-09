@@ -38,10 +38,10 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
                 <div class="flex h-12 w-12 items-center justify-center rounded-full bg-primary/20 text-primary">
                     <span class="material-symbols-outlined text-3xl">description</span>
                 </div>
-                <h3 class="font-display text-lg font-bold">High School Concert Band Lesson Plan</h3>
+                <h3 class="font-display text-lg font-bold">High School Symphonic Band Lesson Plan</h3>
             </div>
             <p class="text-sm text-slate-600 dark:text-slate-400">
-                A detailed lesson plan focusing on dynamics and articulation for a Grade 10 concert band.
+                A detailed lesson plan focusing on rhythms and balance for a high school symphonic band.
             </p>
             <a href="/assets/pdfs/Sample Lesson Plan.pdf" target="_blank" class="mt-auto flex w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors">
                 <span class="truncate">View Document</span>
@@ -53,14 +53,14 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
                 <div class="flex h-12 w-12 items-center justify-center rounded-full bg-primary/20 text-primary">
                     <span class="material-symbols-outlined text-3xl">checklist</span>
                 </div>
-                <h3 class="font-display text-lg font-bold">Assessment Rubrics</h3>
+                <h3 class="font-display text-lg font-bold">Assessment Materials</h3>
             </div>
             <p class="text-sm text-slate-600 dark:text-slate-400">
-                Comprehensive rubrics for assessing student performance, technique, and musical understanding.
+                A sample assessment and rubric for assessing student performance, theory, and musical understanding.
             </p>
-            <button class="mt-auto flex w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors">
+            <a href="/assets/pdfs/Sample Assessment and Rubric.pdf" target="_blank" class="mt-auto flex w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors">
                 <span class="truncate">View Document</span>
-            </button>
+            </a>
         </div>
 
         <div class="flex flex-col gap-4 p-6 border rounded-lg bg-white dark:bg-card-dark border-slate-200 dark:border-slate-700">
@@ -68,14 +68,14 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
                 <div class="flex h-12 w-12 items-center justify-center rounded-full bg-primary/20 text-primary">
                     <span class="material-symbols-outlined text-3xl">menu_book</span>
                 </div>
-                <h3 class="font-display text-lg font-bold">Student Handouts</h3>
+                <h3 class="font-display text-lg font-bold">Classroom Regulations and Rules</h3>
             </div>
             <p class="text-sm text-slate-600 dark:text-slate-400">
-                A collection of student-facing materials for various musical concepts and skills.
+                An example of a handbook I have written for a fictional high school band class.
             </p>
-            <button class="mt-auto flex w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors">
-                <span class="truncate">Download PDF</span>
-            </button>
+            <a href="/assets/pdfs/Sample Handbook.pdf" target="_blank" class="mt-auto flex w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors">
+                <span class="truncate">View Document</span>
+            </a>
         </div>
     </div>
 </section>
