@@ -120,11 +120,10 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
         <blockquote class="p-6 bg-white dark:bg-card-dark border-l-4 border-primary rounded-r-lg">
             <p class="font-display text-xl italic text-slate-800 dark:text-slate-200">
-                "An incredible ability to connect with students of all levels. The passion for music is infectious, and our
-                program has flourished under this guidance."
+                "Emma was hugely impactful to my daughter's learning. My daughter started learning clarinet later than her peers, and she wanted to catch up to them over the summer. Emma was so affirming and so creative in helping my daughter navigate learning a new instrument. Emma's reassuring presence, patience, and ability to find solutions really made the difference for us. My daughter exceeded her own goals and is now soaring in 6th grade band!"
             </p>
             <footer class="mt-4 text-sm font-bold text-slate-600 dark:text-slate-400">
-                — Sarah Jenkins, Principal
+                — Katie W., Parent
             </footer>
         </blockquote>
 
