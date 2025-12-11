@@ -4,7 +4,7 @@ title: Emma Bentley | Professional Musician & Educator
 subtitle: Nurturing a lifelong passion for music through empowering students and professional performance.
 hero_image: /assets/images/hero.jpg
 cta_buttons:
-  - text: Book a Free Trial Lesson
+  - text: Book a Lesson
     url: /contact
     primary: true
   - text: View My Portfolio
@@ -59,8 +59,8 @@ cta_buttons:
             <h3 class="font-display text-xl font-bold">Recent Performances</h3>
             <p class="mt-2 text-sm text-slate-600 dark:text-slate-400">Listen to selections from recent concerts and recitals.</p>
             <div class="mt-4 space-y-3">
-                {% for performance in site.performances limit:2 %}
-                <a class="flex items-center gap-3 rounded p-2 hover:bg-primary/10 dark:hover:bg-secondary/10" href="{{ performance.url }}">
+                {% for performance in site.data.performances %}
+                <a class="flex items-center gap-3 rounded p-2 hover:bg-primary/10 dark:hover:bg-secondary/10" href="/portfolio">
                     <span class="material-symbols-outlined text-primary dark:text-secondary">play_circle</span>
                     <span class="text-sm font-medium">{{ performance.title }}</span>
                 </a>
@@ -85,37 +85,24 @@ cta_buttons:
 </section>
 
 <section class="rounded-xl bg-primary p-8 text-white dark:bg-primary md:p-12" id="contact">
-    <div class="grid grid-cols-1 gap-12 md:grid-cols-2">
-        <div>
-            <h2 class="font-display text-3xl font-bold dark:text-secondary">Get In Touch</h2>
-            <p class="mt-4 leading-relaxed text-slate-200">
-                Whether you're interested in lessons, have a performance inquiry, or want to discuss a teaching opportunity,
-                I'd love to hear from you.
-            </p>
-            <div class="mt-6 space-y-3">
-                <div class="flex items-center gap-3">
-                    <span class="material-symbols-outlined">mail</span>
-                    <a href="mailto:{{ site.email }}" class="hover:text-secondary">{{ site.email }}</a>
-                </div>
-                {% if site.phone %}
-                <div class="flex items-center gap-3">
-                    <span class="material-symbols-outlined">phone</span>
-                    <span>{{ site.phone }}</span>
-                </div>
-                {% endif %}
+    <div class="mx-auto max-w-3xl text-center">
+        <h2 class="font-display text-3xl font-bold dark:text-secondary">Get In Touch</h2>
+        <p class="mt-4 leading-relaxed text-slate-200">
+            Whether you're interested in lessons, have a performance inquiry, or want to discuss a teaching opportunity,
+            I'd love to hear from you.
+        </p>
+
+        <div class="mt-6 space-y-3 flex flex-col items-center">
+            <div class="flex items-center justify-center gap-3">
+                <span class="material-symbols-outlined">mail</span>
+                <a href="mailto:{{ site.email }}" class="hover:text-secondary">{{ site.email }}</a>
             </div>
+            {% if site.phone %}
+            <div class="flex items-center justify-center gap-3">
+                <span class="material-symbols-outlined">phone</span>
+                <span>{{ site.phone }}</span>
+            </div>
+            {% endif %}
         </div>
-        <form action="/contact-success" class="flex flex-col gap-4" netlify>
-            <input type="text" name="name" placeholder="Your Name" required
-                class="rounded border-none bg-white/20 p-3 text-white placeholder-slate-300 focus:ring-2 focus:ring-secondary" />
-            <input type="email" name="email" placeholder="Your Email" required
-                class="rounded border-none bg-white/20 p-3 text-white placeholder-slate-300 focus:ring-2 focus:ring-secondary" />
-            <textarea name="message" placeholder="Your Message" rows="4" required
-                class="rounded border-none bg-white/20 p-3 text-white placeholder-slate-300 focus:ring-2 focus:ring-secondary"></textarea>
-            <button type="submit"
-                class="w-full cursor-pointer rounded-full bg-secondary py-3 font-bold text-primary transition-transform hover:scale-105">
-                Send Message
-            </button>
-        </form>
     </div>
 </section>

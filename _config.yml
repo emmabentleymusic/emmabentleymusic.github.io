@@ -33,8 +33,8 @@ plugins:
 
 # Social media
 social:
-  linkedin: ""
-  youtube: ""
+  linkedin: "https://www.linkedin.com/in/emmabentleymusic"
+  youtube: "https://www.youtube.com/@EmmaBentley-music"
 
 # Collections
 collections:

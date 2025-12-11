@@ -3,10 +3,10 @@
         <p class="text-sm text-slate-600 dark:text-slate-400">© {{ 'now' | date: "%Y" }} {{ site.title }}. All Rights Reserved.</p>
         <div class="flex items-center gap-4">
             {% if site.social.linkedin %}
-            <a class="text-slate-600 hover:text-primary dark:text-slate-400 dark:hover:text-primary" href="{{ site.social.linkedin }}">LinkedIn</a>
+            <a class="text-slate-600 hover:text-primary dark:text-slate-400 dark:hover:text-primary" href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a>
             {% endif %}
             {% if site.social.youtube %}
-            <a class="text-slate-600 hover:text-primary dark:text-slate-400 dark:hover:text-primary" href="{{ site.social.youtube }}">YouTube</a>
+            <a class="text-slate-600 hover:text-primary dark:text-slate-400 dark:hover:text-primary" href="{{ site.social.youtube }}" target="_blank">YouTube</a>
             {% endif %}
         </div>
     </div>

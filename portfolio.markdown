@@ -8,18 +8,10 @@ subtitle: Explore my performances and recordings
     <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8">Performances</h2>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        {% for performance in site.performances limit:4 %}
+        {% for performance in site.data.performances %}
         <div class="bg-white dark:bg-card-dark rounded-xl overflow-hidden">
-            {% if performance.image %}
-            <img src="{{ performance.image }}" alt="{{ performance.title }}" class="w-full h-48 object-cover">
-            {% endif %}
-            <div class="p-6">
-                <h3 class="font-display text-xl font-bold mb-2">{{ performance.title }}</h3>
-                <p class="text-slate-600 dark:text-slate-400 mb-4">{{ performance.excerpt }}</p>
-                <a href="{{ performance.url }}" class="inline-flex items-center text-primary dark:text-secondary hover:underline">
-                    Learn More
-                    <span class="material-symbols-outlined ml-1">arrow_forward</span>
-                </a>
+            <div class="w-full h-72 bg-black flex items-center justify-center">
+                <iframe width="100%" height="192" src="{{ performance.video_url }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen class="w-full h-full"></iframe>
             </div>
         </div>
         {% endfor %}

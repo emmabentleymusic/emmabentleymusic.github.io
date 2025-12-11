@@ -4,31 +4,6 @@ title: Teaching Portfolio
 subtitle: A showcase of my dedication to fostering musical excellence. Here you'll find examples of my teaching methodology through videos, lesson plans, and other various sample materials that demonstrate the vibrant learning environments I create in the classroom.
 ---
 
-<section class="mb-16">
-    <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8">Classroom in Action: Teaching Videos</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        <div class="bg-cover bg-center flex flex-col gap-3 rounded-lg justify-end p-4 aspect-video relative group overflow-hidden cursor-pointer" style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%), url('/assets/images/teaching/clarinet-sectional.jpg');">
-            <div class="absolute inset-0 bg-primary/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                <span class="material-symbols-outlined text-white text-6xl">play_circle</span>
-            </div>
-            <p class="text-white text-base font-bold leading-tight w-4/5 line-clamp-2">Clarinet Sectional Rehearsal</p>
-        </div>
-
-        <div class="bg-cover bg-center flex flex-col gap-3 rounded-lg justify-end p-4 aspect-video relative group overflow-hidden cursor-pointer" style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%), url('/assets/images/teaching/flute-masterclass.jpg');">
-            <div class="absolute inset-0 bg-primary/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                <span class="material-symbols-outlined text-white text-6xl">play_circle</span>
-            </div>
-            <p class="text-white text-base font-bold leading-tight w-4/5 line-clamp-2">Beginner Flute Masterclass</p>
-        </div>
-
-        <div class="bg-cover bg-center flex flex-col gap-3 rounded-lg justify-end p-4 aspect-video relative group overflow-hidden cursor-pointer" style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%), url('/assets/images/teaching/concert-band.jpg');">
-            <div class="absolute inset-0 bg-primary/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                <span class="material-symbols-outlined text-white text-6xl">play_circle</span>
-            </div>
-            <p class="text-white text-base font-bold leading-tight w-4/5 line-clamp-2">High School Concert Band Performance</p>
-        </div>
-    </div>
-</section>
 
 <section class="mb-16">
     <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8">Teaching Materials & Lesson Plans</h2>
@@ -81,7 +56,7 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
 </section>
 
 <section class="mb-16">
-    <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8 text-center">Additional Resources</h2>
+    <h2 class="font-display text-3xl font-bold text-primary dark:text-secondary mb-8 text-center">Additional Information</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">workspace_premium</span>
@@ -89,17 +64,17 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
                 <li>• Clarinet Choir and Harmonie Winds</li>
                 <li>• Spring 2022 - Spring 2025</li>
-                <li>• https://www.youtube.com/@CWRUChamberCollective</li>
+                <li>• <a href="https://www.youtube.com/@CWRUChamberCollective" class="text-primary dark:text-secondary font-semibold hover:underline transition-all">Performance Video</a></li>
             </ul>
         </div>
 
         <div class="bg-white dark:bg-card-dark rounded-xl p-6">
             <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">military_tech</span>
-            <h3 class="font-display text-xl font-bold mb-2">Achievements</h3>
+            <h3 class="font-display text-xl font-bold mb-2">Student Achievements</h3>
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
-                <li>• Teacher of the Year Nominee</li>
-                <li>• Superior Ratings at Festivals</li>
-                <li>• Published Educational Materials</li>
+                <li>• FLMEA All-County Band</li>
+                <li>• Assigned Solos within School Ensembles</li>
+                <li>• Improved Assessment Results</li>
             </ul>
         </div>
 
@@ -107,8 +82,8 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
             <span class="material-symbols-outlined text-primary dark:text-secondary text-3xl mb-4">school</span>
             <h3 class="font-display text-xl font-bold mb-2">Professional Growth</h3>
             <ul class="space-y-2 text-slate-600 dark:text-slate-400">
-                <li>• Conference Presenter</li>
-                <li>• Workshop Leader</li>
+                <li>• Frequent Conference Attendee</li>
+                <li>• Licensed in the US and Canada</li>
                 <li>• Continuing Education</li>
             </ul>
         </div>
@@ -123,17 +98,33 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
                 "Emma was hugely impactful to my daughter's learning. My daughter started learning clarinet later than her peers, and she wanted to catch up to them over the summer. Emma was so affirming and so creative in helping my daughter navigate learning a new instrument. Emma's reassuring presence, patience, and ability to find solutions really made the difference for us. My daughter exceeded her own goals and is now soaring in 6th grade band!"
             </p>
             <footer class="mt-4 text-sm font-bold text-slate-600 dark:text-slate-400">
-                — Katie W., Parent
+                — Katie, Parent
             </footer>
         </blockquote>
 
         <blockquote class="p-6 bg-white dark:bg-card-dark border-l-4 border-primary rounded-r-lg">
             <p class="font-display text-xl italic text-slate-800 dark:text-slate-200">
-                "My daughter was struggling with her confidence, but after a few months in this class, she's not only a
-                better musician but a more confident young woman."
+                "Emma is a natural music educator who brings out the best in young musicians. She connects with students quickly, explains musical concepts clearly, and plans with real intention. During her time with our program, students thrived under her guidance because she knew how to meet their needs and help them grow with confidence. Emma’s mix of musical skill, thoughtful teaching, and genuine care for students truly sets her apart."
             </p>
             <footer class="mt-4 text-sm font-bold text-slate-600 dark:text-slate-400">
-                — David Chen, Parent
+                — John, Cooperating Teacher
+            </footer>
+        </blockquote>
+        <blockquote class="p-6 bg-white dark:bg-card-dark border-l-4 border-primary rounded-r-lg">
+            <p class="font-display text-xl italic text-slate-800 dark:text-slate-200">
+                "Emma gave clarinet lessons to my daughter over the summer.  It was my daughter's first private lesson experience and Emma was awesome!  She was very patient, encouraging, skilled, and fun!  My daughter says "Miss Emma changed my view of music! We had lots of fun doing duets!""
+            </p>
+            <footer class="mt-4 text-sm font-bold text-slate-600 dark:text-slate-400">
+                — Cathy, Parent
+            </footer>
+        </blockquote>
+
+        <blockquote class="p-6 bg-white dark:bg-card-dark border-l-4 border-primary rounded-r-lg">
+            <p class="font-display text-xl italic text-slate-800 dark:text-slate-200">
+                "Emma is incredibly patient and engaging, immediately implementing teaching methods that were perfectly tailored to my daughter's age and specific musical interests. She didn't just teach—she inspired. In just a few months, my daughter didn't just catch up; she exceeded the skill level of most of her peers, gaining tremendous confidence. She genuinely looked forward to every single lesson with Emma. We are so thankful for her highly personalized, encouraging, and highly effective approach!"
+            </p>
+            <footer class="mt-4 text-sm font-bold text-slate-600 dark:text-slate-400">
+                — Amy, Parent
             </footer>
         </blockquote>
     </div>
@@ -145,7 +136,7 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
         View my complete curriculum vitae for a detailed look at my experience, or reach out to schedule an interview.
     </p>
     <div class="flex flex-wrap justify-center gap-4">
-        <a href="#" class="inline-flex items-center justify-center px-8 py-3 rounded-full bg-secondary text-primary font-bold hover:scale-105 transition-transform">
+        <a href="assets/pdfs/Resume.pdf" class="inline-flex items-center justify-center px-8 py-3 rounded-full bg-secondary text-primary font-bold hover:scale-105 transition-transform" target="_blank">
             Download Full CV
         </a>
         <a href="/contact" class="inline-flex items-center justify-center px-8 py-3 rounded-full bg-white/20 text-white font-bold hover:scale-105 transition-transform">

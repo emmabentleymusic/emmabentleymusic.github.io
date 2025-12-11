@@ -83,15 +83,6 @@ permalink: /about/
                         <span class="text-slate-600 dark:text-slate-400">Active Chamber Musician</span>
                     </li>
                 </ul>
-
-                <div class="mt-6 pt-6 border-t border-slate-200 dark:border-slate-700">
-                    <h3 class="font-bold mb-3">Professional Affiliations</h3>
-                    <ul class="space-y-2 text-sm text-slate-600 dark:text-slate-400">
-                        <li>• National Association of Music Educators</li>
-                        <li>• Chamber Music Society</li>
-                        <li>• Music Teachers Association</li>
-                    </ul>
-                </div>
             </div>
         </div>
     </div>
