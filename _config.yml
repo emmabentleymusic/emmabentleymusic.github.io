@@ -23,7 +23,7 @@ email: emmabentleymusic@gmail.com
 description: >-
   Professional musician and music educator offering private lessons and performances.
 baseurl: ""
-url: ""
+url: "https://emmabentleymusic.github.io"
 
 # Build settings
 markdown: kramdown
