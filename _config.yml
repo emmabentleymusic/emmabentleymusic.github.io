@@ -24,6 +24,7 @@ description: >-
   Professional musician and music educator offering private lessons and performances.
 baseurl: ""
 url: "https://emmabentleymusic.github.io"
+permalink: pretty
 
 # Build settings
 markdown: kramdown
