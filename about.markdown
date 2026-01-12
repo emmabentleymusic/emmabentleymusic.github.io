@@ -2,7 +2,6 @@
 layout: page
 title: About Me
 subtitle: Dedicated music educator passionate about sharing the joy of music
-permalink: /about/
 ---
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-12 items-start">
@@ -33,7 +32,7 @@ permalink: /about/
             <p class="text-slate-600 dark:text-slate-400">
                 As an active performer, I regularly appear with orchestras, and chamber ensembles.
                 These experiences inform my teaching and allow me to provide students with insights into the professional
-                music world. I truly enjoy performing with others, and actively demonstrate to my students my enthuiasm. I believe that maintaining an active performance career is essential to being an effective
+                music world. I truly enjoy performing with others, and actively demonstrate to my students my enthusiasm. I believe that maintaining an active performance career is essential to being an effective
                 educator.
             </p>
         </section>
