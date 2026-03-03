@@ -23,7 +23,7 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
     <div class="lg:col-span-1">
         <h2 class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight tracking-tight pb-4">Teaching Experience</h2>
         <p class="text-slate-600 dark:text-slate-400 leading-relaxed">A chronological overview of my roles in public school music education.</p>
-        <p class="mt-4 text-slate-600 dark:text-slate-400 leading-relaxed">For detailed materials, including videos and lesson plans, please visit the <a class="font-semibold text-primary hover:underline" href="/teaching-portfolio">Teaching Portfolio</a> page.</p>
+        <p class="mt-4 text-slate-600 dark:text-slate-400 leading-relaxed">For detailed materials, including assessment materials and lesson plans, please visit the <a class="font-semibold text-primary hover:underline" href="/teaching-portfolio">Teaching Portfolio</a> page.</p>
     </div>
     <div class="lg:col-span-2">
         <div class="grid grid-cols-[auto_1fr] gap-x-6">
