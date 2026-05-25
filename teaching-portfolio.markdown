@@ -136,7 +136,7 @@ subtitle: A showcase of my dedication to fostering musical excellence. Here you'
         View my complete curriculum vitae for a detailed look at my experience, or reach out to schedule an interview.
     </p>
     <div class="flex flex-wrap justify-center gap-4">
-        <a href="assets/pdfs/Resume.pdf" class="inline-flex items-center justify-center px-8 py-3 rounded-full bg-secondary text-primary font-bold hover:scale-105 transition-transform" target="_blank">
+        <a href="/assets/pdfs/Resume.pdf" class="inline-flex items-center justify-center px-8 py-3 rounded-full bg-secondary text-primary font-bold hover:scale-105 transition-transform" target="_blank">
             Download Full CV
         </a>
         <a href="/contact" class="inline-flex items-center justify-center px-8 py-3 rounded-full bg-white/20 text-white font-bold hover:scale-105 transition-transform">
