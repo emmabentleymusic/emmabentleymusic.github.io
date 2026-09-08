@@ -11,7 +11,7 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
     </div>
     <div class="flex flex-col gap-2 rounded-xl p-6 border border-slate-200 dark:border-slate-700 bg-white dark:bg-card-dark">
         <p class="text-slate-600 dark:text-slate-400 text-base font-medium leading-normal">Certifications</p>
-        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight">  Québec Permis Probatoire d'Enseigner | Ohio State Multi-Age License (PK-12)</p>
+        <p class="font-display text-slate-900 dark:text-slate-100 text-3xl font-bold leading-tight"> New York State State Music Multi-Age License (PK-12)</p>
     </div>
     <div class="flex flex-col gap-2 rounded-xl p-6 border border-slate-200 dark:border-slate-700 bg-white dark:bg-card-dark">
         <p class="text-slate-600 dark:text-slate-400 text-base font-medium leading-normal">Experience</p>
