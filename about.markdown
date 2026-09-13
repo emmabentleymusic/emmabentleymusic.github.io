@@ -8,7 +8,7 @@ subtitle: Dedicated music educator passionate about sharing the joy of music
     <div class="md:col-span-2">
         <section class="prose dark:prose-invert max-w-none">
             <p class="text-lg leading-relaxed text-slate-600 dark:text-slate-400">
-                Welcome! I'm Emma Bentley, a dedicated music educator and professional musician and with over 4 years of
+                Welcome! I'm Emma Bentley, a dedicated music educator and professional musician and with over 6 years of
                 experience in performance and teaching. My journey in music began at an early age, and I've had the privilege
                 of studying with some wonderful teachers throughout my musical journey. These experiences have shaped my approach to teaching, allowing me to bring real-world
                 performance experience into my lessons while maintaining a strong foundation in pedagogy.
