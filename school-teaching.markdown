@@ -27,7 +27,46 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
     </div>
     <div class="lg:col-span-2">
         <div class="grid grid-cols-[auto_1fr] gap-x-6">
+
+
             <div class="flex flex-col items-center gap-2 pt-2">
+                <div class="bg-primary/20 text-primary rounded-full p-2">
+                    <span class="material-symbols-outlined text-2xl">artist</span>
+                </div>
+                <div class="w-px bg-slate-300 dark:bg-slate-600 grow"></div>
+            </div>
+            <div class="flex flex-1 flex-col pb-12">
+                <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Performing Arts Teacher</p>
+                <p class="text-base text-slate-600 dark:text-slate-400">Manlius Pebble Hill School | 2026 - present</p>
+                <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
+                    <li>Taught and planned lessons to students grades 1–2 in general music.</li>
+                    <li>Directed 3rd grade Pre-Band utilizing Nuvo instruments.</li>
+                    <li>Directed combined 4th–5th grade band, 6–8 grade band, and 9–12 grade band.</li>
+                    <li>Taught individual and group in school lessons to band students of all ages.</li>
+                    <li>Led pep band, advised Tri-M honor society, and assisted with pit orchestra.</li>
+                </ul>
+            </div>
+
+            <div class="flex flex-col items-center gap-2">
+                <div class="w-px bg-slate-300 dark:bg-slate-600 h-4"></div>
+                <div class="bg-primary/20 text-primary rounded-full p-2">
+                    <span class="material-symbols-outlined text-2xl">trophy</span>
+                </div>
+                <div class="w-px bg-slate-300 dark:bg-slate-600 grow"></div>
+            </div>
+            <div class="flex flex-1 flex-col pb-12">
+                <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Woodwind Instructor</p>
+                <p class="text-base text-slate-600 dark:text-slate-400">Liverpool Central School District | Fall 2026 - present</p>
+                <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
+                    <li>Led sectionals with flute, clarinet, and saxophone players.</li>
+                    <li>Gave individual and group instruction related to visual/drill and music.</li>
+                    <li>Relayed and scaffolded judge feedback from competitions to students.</li>
+                </ul>
+            </div>
+
+
+            <div class="flex flex-col items-center gap-2">
+                <div class="w-px bg-slate-300 dark:bg-slate-600 h-4"></div>
                 <div class="bg-primary/20 text-primary rounded-full p-2">
                     <span class="material-symbols-outlined text-2xl">school</span>
                 </div>
@@ -35,11 +74,17 @@ subtitle: Dedicated to fostering a lifelong love of music through engaging and s
             </div>
             <div class="flex flex-1 flex-col pb-12">
                 <p class="text-lg font-bold text-slate-900 dark:text-slate-100">Substitute Teacher</p>
-                <p class="text-base text-slate-600 dark:text-slate-400">English Montréal School Board | 2025 - Present</p>
+                <p class="text-base text-slate-600 dark:text-slate-400">English Montréal School Board | 2025 - 2026</p>
                 <ul class="mt-4 list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300">
                     <li>Taught full-length lessons to students in all subject areas.</li>
+                    <li>De-escalated behaviors and crises in students with autism.</li>
+                    <li>Implemented IEP accommodations and modifications for students with special needs.</li>
+                    <li>Worked towards individual goals in each student involving communication and life skills.</li>
                 </ul>
             </div>
+
+
+
             <div class="flex flex-col items-center gap-2">
                 <div class="w-px bg-slate-300 dark:bg-slate-600 h-4"></div>
                 <div class="bg-primary/20 text-primary rounded-full p-2">
